@@ -30,6 +30,7 @@
 ## 🛠 Technologies and Tools I Use Frequently 
 
 ![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat&logo=mathworks)
+![Matlab Badge](https://img.shields.io/badge/-Matlab-black?style=flat) ![Matlab Logo](https://github.com/danielcalbick/github-profile-assets/matlab_logo.png)
 ![Julia](https://img.shields.io/badge/-Julia-black?style=flat&logo=julia)
 ![Gen](https://img.shields.io/badge/-Gen-black?style=flat&logo=Gen&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
