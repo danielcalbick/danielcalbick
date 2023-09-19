@@ -1,16 +1,21 @@
 # Hello, I'm Daniel Calbick! 👋
 
-![Header](https://raw.githubusercontent.com/yourusername/yourusername/main/header_image.png)
-
-## 👨‍🔬 About Me
-
-I'm a Neuroscience Ph.D. student in the Cognitive and Neural Computation Lab at Yale University, working with Dr. Ilker Yildirim. My work is centered on using biological nervous systems to understand cognition and intelligence. I am particularly interested in dynamic networks and systems, as well as the emergent properties that arise from them.
-
-- 🧠 Current Focus: Hypothesis-driven algorithms in recurrent neural networks
-- 🛠 Tools: Python, TensorFlow, PyTorch, Numpy, Scipy
-- 📫 How to reach me: [Your Email](mailto:youremail@domain.com)
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun Fact: [Fun Fact]
+<table>
+  <tr>
+    <td>
+      <strong>About Me</strong><br>
+      I'm a Neuroscience Ph.D. student in the Cognitive and Neural Computation Lab at Yale University. I'm particularly interested in dynamic networks and systems, as well as the emergent properties that arise from them.<br>
+      <ul>
+        <li>🧠 Current Focus: Hypothesis-driven algorithms in recurrent neural networks</li>
+        <li>🛠 Tools: Python, TensorFlow, PyTorch, Numpy, Scipy</li>
+        <li>📫 How to reach me: [Your Email](mailto:youremail@domain.com)</li>
+        <li>😄 Pronouns: [Your Pronouns]</li>
+        <li>⚡ Fun Fact: [Fun Fact]</li>
+      </ul>
+    </td>
+    <td><img src="https://raw.githubusercontent.com/yourusername/yourusername/main/side_image.png" width="400"></td>
+  </tr>
+</table>
 
 ## 🌱 Research Interests
 
@@ -29,6 +34,12 @@ I'm a Neuroscience Ph.D. student in the Cognitive and Neural Computation Lab at 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-black?style=flat&logo=scipy)
+
+## 🚧 Work in Progress
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/work_in_progress.gif">
+</div>
 
 ## 📈 GitHub Stats
 
@@ -50,8 +61,3 @@ I'm a Neuroscience Ph.D. student in the Cognitive and Neural Computation Lab at 
 
 ### Author: Daniel Calbick
 ### Date: 2023-09-19
-
-
-
-
-
