@@ -27,11 +27,12 @@
 
 ![Dynamic Network](https://raw.githubusercontent.com/yourusername/yourusername/main/dynamic_network.gif)
 
-## 🛠 Technologies and Tools I Use
+## 🛠 Technologies and Tools I Use Frequently 
 
+![Matlab](https://img.shields.io/badge/-Matlab-black?style=flat&logo=mathworks)
+![Julia](https://img.shields.io/badge/-Julia-black?style=flat&logo=julia)
+![Gen](https://img.shields.io/badge/-Gen-black?style=flat&logo=Gen&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=numpy)
 ![Scipy](https://img.shields.io/badge/-Scipy-black?style=flat&logo=scipy)
 
