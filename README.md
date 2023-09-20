@@ -30,7 +30,7 @@
 ## 🛠 Technologies and Tools I Use Frequently 
 
 <a href="https://www.mathworks.com/products/matlab.html">
-    <img src="https://img.shields.io/badge/-Matlab-black?style=flat&logo=data:image/png;base64,numpy_logo.svg" alt="Matlab" width="150" height="50"/>
+    <img src="https://img.shields.io/badge/-Matlab-black?style=flat&logo=data:image/svg+xml;base64,numpy_logo.svg" alt="Matlab" width="150" height="50"/>
 </a>
 
 <a href="https://julialang.org/">
@@ -38,7 +38,7 @@
 </a>
 
 <a href="https://www.gen.dev/">
-    <img src="https://img.shields.io/badge/-Gen-black?style=flat&logo=data:image/png;base64,numpy_logo.svg" alt="Gen" width="150" height="50"/>
+    <img src="https://img.shields.io/badge/-Gen-black?style=flat&logo=data:image/svg+xml;base64,numpy_logo.svg" alt="Gen" width="150" height="50"/>
 </a>
 
 <a href="https://www.python.org/">
