@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-## 🌱 Research Interests
+## Research Interests
 
 - Dynamic Networks and Systems
 - Neural Data Analysis
@@ -24,7 +24,7 @@
 
 ![Dynamic Network](https://raw.githubusercontent.com/yourusername/yourusername/main/dynamic_network.gif)
 
-## 🛠 Technologies and Tools I Use Frequently 
+## Tech and Tools I Use Frequently 
 
 <a href="https://www.mathworks.com/products/matlab.html">
     <img src="https://img.shields.io/badge/-Matlab-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI3LjguMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA4MDAgODAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA4MDAgODAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzQ0OTlERDt9Cgkuc3Qxe2ZpbGw6dXJsKCNTVkdJRF8xXyk7fQoJLnN0MntmaWxsOnVybCgjU1ZHSURfMDAwMDAxMzg1NzE1ODExODEyOTgyNzI2NzAwMDAwMDY2NDI3ODY2MzAwOTc0OTE4NzlfKTt9Cjwvc3R5bGU+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01MCw0MzguN2wxOTkuMi04MC41YzIwLjItMjYuNyw0My01MS40LDY4LTczLjhjMTYuNS04LjgsNDcuNS00LDEwNC4yLTc0LjVjNTUtNjguOCw3Mi41LTEyNy41LDk4LjItMTI3LjUKCWM0MC44LDAsNzAuOCw4OCwxMTYuMiwyMjEuMmMzMi40LDEwMS44LDcwLjUsMjAxLjcsMTE0LDI5OS4yYy00Ny41LTQ0LjItODgtOTItMTM0LjItOTAuN2MtNDMsMS05MC44LDUyLTE0MywxMTcuNQoJYy00MS41LDUyLjUtOTYuNSw4OC41LTExOCw4Ny44YzAsMC01NS41LTE1Ny0xMDItMTgyLjVjLTE5LjYtOC00MS44LTYuMS01OS44LDVMNTAsNDM4LjVWNDM4Ljd6Ii8+CjxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHSURfMV8iIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iLTUxOS44MzY4IiB5MT0iOTI5LjkyOSIgeDI9Ii01MjEuNjI2OCIgeTI9IjkyNC4xNDg5IiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDI1IDAgMCAyNSAxMzQxNiAtMjI4NjQpIj4KCTxzdG9wICBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOiM1NTExMjIiLz4KCTxzdG9wICBvZmZzZXQ9IjAuMjMiIHN0eWxlPSJzdG9wLWNvbG9yOiM1NTIyMzMiLz4KCTxzdG9wICBvZmZzZXQ9IjAuMzYiIHN0eWxlPSJzdG9wLWNvbG9yOiM1NTMzNDQiLz4KCTxzdG9wICBvZmZzZXQ9IjAuNTEiIHN0eWxlPSJzdG9wLWNvbG9yOiM2NjQ0NTUiLz4KCTxzdG9wICBvZmZzZXQ9IjAuNjYiIHN0eWxlPSJzdG9wLWNvbG9yOiM1NTY2ODgiLz4KCTxzdG9wICBvZmZzZXQ9IjAuODQiIHN0eWxlPSJzdG9wLWNvbG9yOiMyMjk5REQiLz4KPC9saW5lYXJHcmFkaWVudD4KPHBhdGggY2xhc3M9InN0MSIgZD0iTTQ5NSwxMDAuNWMtMTYuOCwyMi41LTM3LDYzLjgtNzMuNSwxMDkuNWMtNTYuOCw3MC41LTg3LjUsNjUuOC0xMDQuMiw3NC41Yy0yNS4xLDIyLjItNDcuOSw0Ni45LTY4LDczLjgKCWw4Mi41LDYwLjNjNzAtOTUuNSwxMDcuNS0xOTksMTM2LjctMjY2QzQ3NS44LDEzNC40LDQ4NC43LDExNyw0OTUsMTAwLjV6Ii8+CjxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHSURfMDAwMDAxNDE0NDcyMTM5MzI4MTYzNjM2OTAwMDAwMDU3MzE5MTE2ODE1NjMwNTc1NTBfIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9Ii01MDYuOTMiIHkxPSI5MTYuNDU3MiIgeDI9Ii01MjQuOTI5OSIgeTI9IjkyMC44NzcyIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDI1IDAgMCAtMjUgMTM0MTYgMjMzODYpIj4KCTxzdG9wICBvZmZzZXQ9IjguMTAwMDAwZS0wMiIgc3R5bGU9InN0b3AtY29sb3I6I0NDMzMzMyIvPgoJPHN0b3AgIG9mZnNldD0iMC4xODkiIHN0eWxlPSJzdG9wLWNvbG9yOiNERTUyMzkiLz4KCTxzdG9wICBvZmZzZXQ9IjAuMzEzIiBzdHlsZT0ic3RvcC1jb2xvcjojRjA2RTNFIi8+Cgk8c3RvcCAgb2Zmc2V0PSIwLjQyMSIgc3R5bGU9InN0b3AtY29sb3I6I0ZBODA0MiIvPgoJPHN0b3AgIG9mZnNldD0iMC41IiBzdHlsZT0ic3RvcC1jb2xvcjojRkU4NjQzIi8+Cgk8c3RvcCAgb2Zmc2V0PSIwLjU4IiBzdHlsZT0ic3RvcC1jb2xvcjojRkE3RjQyIi8+Cgk8c3RvcCAgb2Zmc2V0PSIwLjY5NiIgc3R5bGU9InN0b3AtY29sb3I6I0VGNkMzRSIvPgoJPHN0b3AgIG9mZnNldD0iMC44MzMiIHN0eWxlPSJzdG9wLWNvbG9yOiNEQzRDMzciLz4KCTxzdG9wICBvZmZzZXQ9IjAuOTE2IiBzdHlsZT0ic3RvcC1jb2xvcjojQ0YzNjMzIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxwYXRoIHN0eWxlPSJmaWxsOnVybCgjU1ZHSURfMDAwMDAxNDE0NDcyMTM5MzI4MTYzNjM2OTAwMDAwMDU3MzE5MTE2ODE1NjMwNTc1NTBfKTsiIGQ9Ik01MjAsODIuNWMtNTQuNSwwLTkxLjgsMjg3LTI5Myw0NDcuMgoJYzU2LjUtOS4yLDEwNS41LDEzMSwxMjgsMTg3LjhjMTAwLTE3LDE4MC0yMDguMywyNjAuOC0yMDUuM0M2NjIsNTE0LDcwMi41LDU1OC43LDc1MCw2MDNDNjQxLjUsMzc1LDU5MC44LDgyLjUsNTIwLDgyLjV6Ii8+Cjwvc3ZnPgo=" alt="Matlab" width="150" height="50"/>
@@ -51,11 +51,10 @@
 </a>
 
 
+## More About Me ... 
 <table style="background-image: url('https://github.com/danielcalbick/github-profile-assets/blob/main/photos/butterfly_abstract_05.png?raw=true'); background-size: cover;">
   <tr>
     <td style="max-width: 600px; background-color: rgba(255, 255, 255, 0.8);">
-      <strong>About Me</strong>
-      <br><br>
       <p style="text-align: justify;">
         My journey to academia has been anything but linear. It has taken me from the editing rooms of a social impact documentary production company to crossing the Atlantic on the decks of 18th-century sailboats and now to the inner worlds of our minds.
       </p>
@@ -71,7 +70,7 @@
         <li>How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></li>
         <li>Fun Fact: [Fun Fact]</li>
       </ul>
-      <br><br>
+      <br>
     </td>
   </tr>
 </table>
