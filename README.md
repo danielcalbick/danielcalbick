@@ -5,6 +5,9 @@
     <td style="max-width: 600px; background-color: rgba(255, 255, 255, 0.2);">
       <strong>I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.</strong>
       <br><br>
+      <p align="center">
+          <img width="460" height="300" src="https://github.com/danielcalbick/github-profile-assets/blob/main/logos/CNCL_logo.svg?raw=true">
+      </p>
       <img src="https://github.com/danielcalbick/github-profile-assets/blob/main/logos/CNCL_logo.svg?raw=true" alt="CNCL_logo" style="width: 50%; height: auto; display: block; margin: auto;">
       <br><br>
       <p style="text-align: justify;">
