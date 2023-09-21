@@ -55,15 +55,17 @@
 <table style="background-image: url('https://github.com/danielcalbick/github-profile-assets/blob/main/photos/butterfly_abstract_05.png?raw=true'); background-size: cover;">
   <tr>
     <td style="max-width: 600px; background-color: rgba(255, 255, 255, 0.8);">
+      <br><br>
       <p style="text-align: justify;">
         My journey to academia has been anything but linear. It has taken me from the editing rooms of a social impact documentary production company to crossing the Atlantic on the decks of 18th-century sailboats and now to the inner worlds of our minds.
       </p>
-      <img src="https://github.com/danielcalbick/github-profile-assets/blob/main/photos/lhermione.jpeg?raw=true" alt="Your Image Description" style="width: 100%; height: auto;"">
+      <br><br>
+      <img src="https://github.com/danielcalbick/github-profile-assets/blob/main/photos/lhermione.jpeg?raw=true" alt="Your Image Description" style="width: 100%; height: auto;">
       <br><br>
       <p style="text-align: justify;">
         Today, I'm particularly interested in attentional, memory, inference, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions—-all from self-orgenized, noisey, and highly reccurent neurons. My research interests extend to exploring mathematical representations of dynamic networks, how they can be applied to inference and probabalistic algorithms, engineering and control theory, and the emergent lexical and semantic structures that arise from attention and predictive coding (yeah who isn't interested in LLMs... but also beyond language; e.g. motor semantics of coordinated muscle fibers and groups to create semantic "movement languages"). Undergirding it all is a particularl interest in choas, self-orginized complexity, and dynamic networks/systems, with all the fascinatingly emergent properties that arise from them.
       </p>
-      <br><br>
+      <br>
       <ul>
         <li>🤖🐵 Current Focus: Programming hypothesis-driven algorithms into recurrent neural networks (RNNs)</li>
         <li>(main) Programming Languages: Matlab, Python, Julia, Bash, HPC/Slurm (does that count?)</li>
