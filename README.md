@@ -3,10 +3,9 @@
 <table>
   <tr>
     <td style="max-width: 700px; background-color: rgba(255, 255, 255, 0.2);">
-      <p style="text-align: center; font-size: 24px;">  
+      <p style="text-align: center; font-size: 48px;">  
         <strong>I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.</strong>
       </p>
-      <br>
       <p align="center">
           <img width="460" src="https://github.com/danielcalbick/github-profile-assets/blob/main/logos/CNCL_logo.svg?raw=true" style="height: auto;">
       </p>
