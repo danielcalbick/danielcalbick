@@ -1,4 +1,4 @@
-## Hello and welcome! I'm Daniel Calbick!
+<h1 align="center">Hello and welcome! I'm Daniel Calbick!</h1>
 
 <p align="center">  
     <strong>I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.</strong>
@@ -23,8 +23,7 @@ I'm on a quest to unravel the mysteries of the mind. My research sits at the int
 
 <center>
     
-<!-- ## Tech and Tools I Use Frequently  -->
-<h1 align="center">Tech and Tools I Use Frequently</h1>
+<h2 align="center">Tech and Tools I Use Frequently</h2>
 
 </center>
 
