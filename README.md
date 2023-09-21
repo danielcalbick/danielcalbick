@@ -54,12 +54,12 @@
 ## More About Me ... 
 <table style="background-image: url('https://github.com/danielcalbick/github-profile-assets/blob/main/photos/butterfly_abstract_05.png?raw=true'); background-size: cover;">
   <tr>
-    <td style="max-width: 600px; background-color: rgba(255, 255, 255, 0.8);">
-      <br><br>
+    <td style="max-width: 700px; background-color: rgba(255, 255, 255, 0.8);">
+      <br>
       <p style="text-align: justify;">
         My journey to academia has been anything but linear. It has taken me from the editing rooms of a social impact documentary production company to crossing the Atlantic on the decks of 18th-century sailboats and now to the inner worlds of our minds.
       </p>
-      <br><br>
+      <br>
       <img src="https://github.com/danielcalbick/github-profile-assets/blob/main/photos/lhermione.jpeg?raw=true" alt="Your Image Description" style="width: 100%; height: auto;">
       <br><br>
       <p style="text-align: justify;">
