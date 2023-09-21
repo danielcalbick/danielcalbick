@@ -23,7 +23,8 @@ I'm on a quest to unravel the mysteries of the mind. My research sits at the int
 
 <center>
     
-## Tech and Tools I Use Frequently 
+<!-- ## Tech and Tools I Use Frequently  -->
+<h1 align="center">Tech and Tools I Use Frequently</h1>
 
 </center>
 
