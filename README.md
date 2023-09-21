@@ -1,4 +1,6 @@
-# Hello and welcome! I'm Daniel Calbick, a Neuroscience Ph.D. student at Yale University, and I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
+# Hello and welcome! I'm Daniel Calbick!
+
+I am Neuroscience Ph.D. student at Yale University, and I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
 
 
 <table style="background-image: url('https://github.com/danielcalbick/github-profile-assets/blob/main/photos/butterfly_abstract_05.png'); background-size: cover;">
