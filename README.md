@@ -1,11 +1,12 @@
-# Hello, I'm Daniel Calbick! 👋
+# Hello and welcome! I'm Daniel Calbick, a Neuroscience Ph.D. student at Yale University, and I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
 
 
 <table style="background-image: url('https://github.com/danielcalbick/github-profile-assets/blob/main/photos/butterfly_abstract_05.png'); background-size: cover;">
   <tr>
     <td style="word-wrap: break-word; max-width: 600px; background-color: rgba(255, 255, 255, 0.8);">
       <strong>About Me</strong><br>
-      I'm a Neuroscience Ph.D. student in the Cognitive and Neural Computation Lab at Yale University. I'm particularly interested in dynamic networks and systems, as well as the emergent properties that arise from them.<br>
+      My journey to academia has been anything but linear. From the editing rooms of a social impact documentary production company to the decks of 18th-century sailboats, my diverse experiences have shaped my unique perspective on the complexities of cognition. These adventures instilled in me values of leadership, teamwork, and perseverance, enriching my scientific pursuits. 
+      Today, I'm particularly interested in attentional, memory, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions. My recent avenue of interest extends to exploring lexical and semantic spaces beyond language, diving into the motor semantics of coordinated muscle fibers and groups.I'm particularly interested in dynamic networks and systems, as well as the emergent properties that arise from them.<br>
       <ul>
         <li>🧠 Current Focus: Hypothesis-driven algorithms in recurrent neural networks</li>
         <li>🛠 Tools: Python, TensorFlow, PyTorch, Numpy, Scipy</li>
@@ -13,12 +14,6 @@
         <li>😄 Pronouns: [Your Pronouns]</li>
         <li>⚡ Fun Fact: [Fun Fact]</li>
       </ul>
-      Hello and welcome! I'm Daniel Calbick, a Neuroscience Ph.D. student at Yale University, and I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.<br>
-
-      My journey to academia has been anything but linear. From the editing rooms of a social impact documentary production company to the decks of 18th-century sailboats, my diverse experiences have shaped my unique perspective on the complexities of cognition. These adventures have instilled in me values of leadership, teamwork, and perseverance, enriching my scientific pursuits.<br>
-
-      Today, I'm particularly interested in attentional, memory, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions. My recent avenue of interest extends to exploring lexical and semantic spaces beyond language, diving into the motor semantics of coordinated muscle fibers and groups.
-    </td>
   </tr>
 </table>
 
