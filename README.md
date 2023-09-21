@@ -1,6 +1,10 @@
-<h1 align="center">Hello and welcome! I'm Daniel Calbick! <br> 
-  <span style="font-size: 14px; display: inline-block;">How to reach me: 
-    <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a>
+<h1 align="center">
+  Hello and welcome! I'm Daniel Calbick!
+  <br>
+  <span style="font-size: 14px; color: inherit;">How to reach me: 
+    <a href="mailto:daniel.calbick@yale.edu" style="font-size: 14px; color: inherit;">
+      daniel.calbick@yale.edu
+    </a>
   </span>
 </h1>
 
