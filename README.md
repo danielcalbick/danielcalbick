@@ -13,16 +13,13 @@ I am Neuroscience Ph.D. student at Yale University, and I'm on a quest to unrave
       Today, I'm particularly interested in attentional, memory, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions. My recent avenue of interest extends to exploring lexical and semantic spaces beyond language, diving into the motor semantics of coordinated muscle fibers and groups.I'm particularly interested in dynamic networks and systems, as well as the emergent properties that arise from them.<br>
       <br><br>
       <ul>
-        <li>🧠 Current Focus: Hypothesis-driven algorithms in recurrent neural networks</li>
-        <li>🛠 Tools: Python, TensorFlow, PyTorch, Numpy, Scipy</li>
-        <li>📫 How to reach me: <a href="mailto:youremail@domain.com">Your Email</a></li>
-        <li>😄 Pronouns: [Your Pronouns]</li>
-        <li>⚡ Fun Fact: [Fun Fact]</li>
+        <li>🤖🐵 Current Focus: Programming hypothesis-driven algorithms into recurrent neural networks (RNNs)</li>
+        <li>(main) Programming Languages: Matlab, Python, Julia, Bash</li>
+        <li>How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></li>
+        <li>Fun Fact: [Fun Fact]</li>
       </ul>
   </tr>
 </table>
-
-
 
 ## 🌱 Research Interests
 
@@ -30,7 +27,7 @@ I am Neuroscience Ph.D. student at Yale University, and I'm on a quest to unrave
 - Neural Data Analysis
 - Biological and Artificial Intelligence
 - Cognitive Modeling
-- Attentional, Memory, and Generative Systems in the Brain
+- Attentional, Memory, Inference, and Generative Systems in the Brain
 
 ![Dynamic Network](https://raw.githubusercontent.com/yourusername/yourusername/main/dynamic_network.gif)
 
@@ -61,25 +58,23 @@ I am Neuroscience Ph.D. student at Yale University, and I'm on a quest to unrave
 </a>
 
 
-## 🚧 Work in Progress
+<!-- ## Work in Progress
 
-  
-
+- [Dynamic Network Analysis](https://github.com/yourusername/dynamic-network-analysis) -->
 
 ## 📈 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcalbick)
 
-## 📦 Featured Projects
+<!-- ## 📦 Featured Projects
 
 - [Dynamic Network Analysis](https://github.com/yourusername/dynamic-network-analysis)
 - [Hypothesis-Driven Algorithms in RNNs](https://github.com/yourusername/hypothesis-driven-RNNs)
-- [Neural Data Analysis](https://github.com/yourusername/neural-data-analysis)
+- [Neural Data Analysis](https://github.com/yourusername/neural-data-analysis) -->
 
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
 - [Google Scholar](https://scholar.google.com/citations?user=yourID)
 
 ---
