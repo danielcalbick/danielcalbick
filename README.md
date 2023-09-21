@@ -1,6 +1,8 @@
 # Hello and welcome! I'm Daniel Calbick!
 
-I am Neuroscience Ph.D. student at Yale University, and I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
+I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.
+
+I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
 
 
 <table style="background-image: url('https://github.com/danielcalbick/github-profile-assets/blob/main/photos/butterfly_abstract_05.png'); background-size: cover;">
@@ -8,9 +10,9 @@ I am Neuroscience Ph.D. student at Yale University, and I'm on a quest to unrave
     <td style="max-width: 600px; background-color: rgba(255, 255, 255, 0.8); text-align: justify;">
       <strong>About Me</strong>
       <br><br>
-      My journey to academia has been anything but linear. From the editing rooms of a social impact documentary production company to the decks of 18th-century sailboats, my diverse experiences have shaped my unique perspective on the complexities of cognition. These adventures instilled in me values of leadership, teamwork, and perseverance, enriching my scientific pursuits. 
+      My journey to academia has been anything but linear. It has taken me from the editing rooms of a social impact documentary production company to crossing the Atlantic on the decks of 18th-century sailboats and now to the inner worlds of our minds.
       <br><br>
-      Today, I'm particularly interested in attentional, memory, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions. My recent avenue of interest extends to exploring lexical and semantic spaces beyond language, diving into the motor semantics of coordinated muscle fibers and groups.I'm particularly interested in dynamic networks and systems, as well as the emergent properties that arise from them.
+      Today, I'm particularly interested in attentional, memory, inference, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions—-all from self-orgenized, noisey, and highly reccurent neurons. My research interests extend to exploring mathematical representations of dynamic networks, how they can be applied to inference and probabalistic algorithms, engineering and control theory, and the emergent lexical and semantic structures that arise from attention and predictive coding (yeah who isn't interested in LLMs... but also beyond language; e.g. motor semantics of coordinated muscle fibers and groups to create semantic "movement languages"). Undergirding it all is a particularl interest in choas, self-orginized complexity, and dynamic networks/systems, with all the fascinatingly emergent properties that arise from them.
       <br><br>
       <ul>
         <li>🤖🐵 Current Focus: Programming hypothesis-driven algorithms into recurrent neural networks (RNNs)</li>
