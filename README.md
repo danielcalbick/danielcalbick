@@ -1,5 +1,8 @@
-<h1 align="center">Hello and welcome! I'm Daniel Calbick!</h1>
-<p align="center"> How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></p>
+<h1 align="center">Hello and welcome! I'm Daniel Calbick! <br> 
+  <span style="font-size: 14px; display: inline-block;">How to reach me: 
+    <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a>
+  </span>
+</h1>
 
 <p align="center">  
     <strong>I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.</strong>
