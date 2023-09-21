@@ -5,12 +5,12 @@ I am Neuroscience Ph.D. student at Yale University, and I'm on a quest to unrave
 
 <table style="background-image: url('https://github.com/danielcalbick/github-profile-assets/blob/main/photos/butterfly_abstract_05.png'); background-size: cover;">
   <tr>
-    <td style="word-wrap: break-word; max-width: 600px; background-color: rgba(255, 255, 255, 0.8);text-align: justify;">
-      <strong>About Me</strong><br>
+    <td style="max-width: 600px; background-color: rgba(255, 255, 255, 0.8); text-align: justify;">
+      <strong>About Me</strong>
       <br><br>
       My journey to academia has been anything but linear. From the editing rooms of a social impact documentary production company to the decks of 18th-century sailboats, my diverse experiences have shaped my unique perspective on the complexities of cognition. These adventures instilled in me values of leadership, teamwork, and perseverance, enriching my scientific pursuits. 
       <br><br>
-      Today, I'm particularly interested in attentional, memory, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions. My recent avenue of interest extends to exploring lexical and semantic spaces beyond language, diving into the motor semantics of coordinated muscle fibers and groups.I'm particularly interested in dynamic networks and systems, as well as the emergent properties that arise from them.<br>
+      Today, I'm particularly interested in attentional, memory, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions. My recent avenue of interest extends to exploring lexical and semantic spaces beyond language, diving into the motor semantics of coordinated muscle fibers and groups.I'm particularly interested in dynamic networks and systems, as well as the emergent properties that arise from them.
       <br><br>
       <ul>
         <li>🤖🐵 Current Focus: Programming hypothesis-driven algorithms into recurrent neural networks (RNNs)</li>
@@ -18,6 +18,7 @@ I am Neuroscience Ph.D. student at Yale University, and I'm on a quest to unrave
         <li>How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></li>
         <li>Fun Fact: [Fun Fact]</li>
       </ul>
+      <br><br>
   </tr>
 </table>
 
