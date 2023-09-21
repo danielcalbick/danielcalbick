@@ -5,7 +5,7 @@
     <td style="max-width: 600px; background-color: rgba(255, 255, 255, 0.2);">
       <strong>I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.</strong>
       <p align="center">
-          <img width="460" height="300" src="https://github.com/danielcalbick/github-profile-assets/blob/main/logos/CNCL_logo.svg?raw=true">
+          <img src="https://github.com/danielcalbick/github-profile-assets/blob/main/logos/CNCL_logo.svg?raw=true" style="width: 460; height: auto;">
       </p>
       <p style="text-align: justify;">
         I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
