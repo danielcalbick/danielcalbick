@@ -1,9 +1,18 @@
 # Hello and welcome! I'm Daniel Calbick!
 
-I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.
-
-I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
-
+<table>
+  <tr>
+    <td style="max-width: 600px; background-color: rgba(255, 255, 255, 0.8);">
+      <strong>I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.</strong>
+      <br><br>
+      <img src="https://github.com/danielcalbick/github-profile-assets/blob/main/logos/CNCL_logo.svg?raw=true" alt="Your Image Description" style="width: 100%; height: auto;"">
+      <br><br>
+      <p style="text-align: justify;">
+        I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <table style="background-image: url('https://github.com/danielcalbick/github-profile-assets/blob/main/photos/butterfly_abstract_05.png?raw=true'); background-size: cover;">
   <tr>
