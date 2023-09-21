@@ -4,7 +4,7 @@
     <strong>I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.</strong>
 </p>
 <p align="center">
-    <img src="https://github.com/danielcalbick/danielcalbick/images/CNCL_logo.svg" alt="CNCL Logo" width="460">
+    <img src="https://github.com/danielcalbick/danielcalbick/blob/main/.images/CNCL_logo.svg" alt="CNCL Logo" width="460">
   <!-- <img width="460" src="https://github.com/danielcalbick/github-profile-assets/blob/main/logos/CNCL_logo.svg?raw=true" style="height: auto;"> -->
 </p>
 <p style="text-align: justify;">
