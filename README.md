@@ -16,7 +16,7 @@ I'm on a quest to unravel the mysteries of the mind. My research sits at the int
       <img src="https://github.com/danielcalbick/github-profile-assets/blob/main/photos/your_image_here.png?raw=true" alt="Your Image Description" width="200">
       <br><br>
       <p style="text-align: justify;">
-        Today, I'm particularly interested in attentional, memory, inference, and generative systems in the brain...
+        Today, I'm particularly interested in attentional, memory, inference, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions—-all from self-orgenized, noisey, and highly reccurent neurons. My research interests extend to exploring mathematical representations of dynamic networks, how they can be applied to inference and probabalistic algorithms, engineering and control theory, and the emergent lexical and semantic structures that arise from attention and predictive coding (yeah who isn't interested in LLMs... but also beyond language; e.g. motor semantics of coordinated muscle fibers and groups to create semantic "movement languages"). Undergirding it all is a particularl interest in choas, self-orginized complexity, and dynamic networks/systems, with all the fascinatingly emergent properties that arise from them.
       </p>
       <br><br>
       <ul>
