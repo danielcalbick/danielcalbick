@@ -11,7 +11,7 @@
 I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
 </p>
       
-## Research Interests
+### Research Interests
 
 - Dynamic Networks and Systems
 - Neural Data Analysis
@@ -52,7 +52,7 @@ I'm on a quest to unravel the mysteries of the mind. My research sits at the int
 </a>
 
 
-## More About Me ... 
+<h2 align="center">More About Me ...</h2>
 
 <p style="text-align: justify;">
 My journey to academia has been anything but linear. It has taken me from the editing rooms of a social impact documentary production company to crossing the Atlantic on the decks of 18th-century sailboats and now to the inner worlds of our minds. But here is a picture—-the best picture I've ever taken--of my old life and the last two boats I worked on:
