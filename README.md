@@ -1,12 +1,14 @@
 <h1 align="center">Hello and welcome! I'm Daniel Calbick!</h1>
+<p align="center"> How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></p>
 
 <p align="center">  
     <strong>I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.</strong>
 </p>
+
 <p align="center">
     <img src="https://github.com/danielcalbick/danielcalbick/blob/main/.images/CNCL_logo.svg" alt="CNCL Logo" width="460">
-  <!-- <img width="460" src="https://github.com/danielcalbick/github-profile-assets/blob/main/logos/CNCL_logo.svg?raw=true" style="height: auto;"> -->
 </p>
+
 <p style="text-align: justify;">
 I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
 </p>
@@ -67,7 +69,6 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 <ul>
     <li>🤖🐵 Current Focus: Programming hypothesis-driven algorithms into recurrent neural networks (RNNs)</li>
     <li>(main) Programming Languages: Matlab, Python, Julia, Bash, HPC/Slurm (does that count?)</li>
-    <li>How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></li>
     <li>Fun Fact: [Fun Fact]</li>
 </ul>
 
