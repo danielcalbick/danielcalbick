@@ -74,8 +74,8 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 
 
-<p align="center" style="font-size: 36px;">
-    <strong><em>Here is some misc that I really enjoy ...</em></strong>
+<p align="center" style="font-size: 36px; font-weight: bold; font-style: italic;">
+    Here is some misc that I really enjoy ...
 </p>
 
 
