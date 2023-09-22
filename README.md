@@ -109,5 +109,5 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 ---
 
-### Author: Daniel Calbick
-### Date: 2023-09-19
+<strong><em>Author: Daniel Calbick</em></strong>
+<strong><em>Last Updated: 2023-09-19</em></strong>
