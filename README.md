@@ -74,17 +74,18 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 
 
-<p align="center">
-
-<style>
+```css
 p {
-  font-size: 36px;  
+  font-size: 36px;
 }
-</style>
+```
+
+<p align="center">
 
 <strong><em>Here is some misc that I really enjoy...</em></strong>
 
 </p>
+```
 
 
 <div align="center">
