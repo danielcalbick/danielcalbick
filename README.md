@@ -102,14 +102,14 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 - [Hypothesis-Driven Algorithms in RNNs](https://github.com/yourusername/hypothesis-driven-RNNs)
 - [Neural Data Analysis](https://github.com/yourusername/neural-data-analysis) -->
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me this is a change
 
 - [LinkedIn](https://linkedin.com/in/yourusername)
 - [Google Scholar](https://scholar.google.com/citations?user=yourID)
 
 ---
 
-this is a change
+
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div><strong><em>Author: Daniel Calbick</em></strong></div>
     <div><strong><em>Last Updated: 2023-09-19</em></strong></div>
