@@ -112,7 +112,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 <table style="width:100%">
   <tr>
     <td style="width:20%; text-align:left;"><strong><em>Author: Daniel Calbick</em></strong></td>
-    <td style="width:60%;">            |             </td>
+    <td style="width:60%;">&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td style="width:20%; text-align:right;"><strong><em>Last Updated: 2023-09-19</em></strong></td>
   </tr>
 </table>
