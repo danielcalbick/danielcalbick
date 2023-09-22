@@ -3,6 +3,11 @@
 
 import os
 import base64
+import subprocess
+
+# Function to run shell command and return output
+def run_command(command):
+    return subprocess.run(command, stdout=subprocess.PIPE, text=True, shell=True).stdout.strip()
 
 def update_readme(readme_path, logos_dir):
     # Save original README content
@@ -37,8 +42,9 @@ def update_readme(readme_path, logos_dir):
             f.truncate()
             f.write(readme_content)
 
-        os.chdir(os.path.dirname(readme_path))
-        os.system("zsh -i -c 'source ~/.zshrc; greadme'")  # Running the alias from zshrc
+        # Push changes to README to branch=profile-assets
+        os.system("zsh update_readme.sh")
+
 
     finally:
         # Revert README to original state
