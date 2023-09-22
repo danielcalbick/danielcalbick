@@ -76,10 +76,13 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 <link rel="stylesheet" href="https://github.com/danielcalbick/github-profile-assets/blob/main/styles.css">
 
+<style>
+p {
+  font-size: 36px;
+} 
+</style>
 <p align="center">
-
-<strong><em>Here is some text...</em></strong>
-
+<strong><em>Here is some misc that I really enjoy ...</em></strong>
 </p>
 
 
