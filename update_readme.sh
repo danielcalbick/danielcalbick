@@ -1,10 +1,5 @@
 #!/bin/zsh
 
-# Script to automatically cherry-pick the last commit affecting README.md
-# from profile-assets branch to main branch
-
-source ~/.zshrc
-
 # Navigate to your repository's directory if not already there
 cd ~/Misc_codingProjects/danielcalbick
 
@@ -21,7 +16,7 @@ git commit -m 'Updated README.md'; git push
 git fetch origin
 
 # Find the latest commit hash affecting README.md in profile-assets branch
-latest_commit=$(git log profile-assets -- README.md -n 1 --pretty=format:"%H")
+latest_commit=$(git log profile-assets --pretty=format:"%H" -- README.md | head -n 1)
 
 # Checkout the main branch
 git checkout main
