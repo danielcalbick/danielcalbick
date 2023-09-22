@@ -78,11 +78,15 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     <strong>Here is some misc that I really enjoy</strong>
 </p>
 
-<p align="center">
+
+<div align="center">
   <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
-    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200">
+    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200" style="margin: 5px;">
   </a>
-</p>
+  <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
+    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200" style="margin: 5px;">
+  </a>
+</div>
 
 <!-- ## Work in Progress
 
