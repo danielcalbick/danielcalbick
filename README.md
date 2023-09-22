@@ -109,20 +109,13 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 ---
 
-
-<table>
+<table style="width:100%">
   <tr>
-    <td><strong><em>Author: Daniel Calbick</em></strong></td>
-    <td><strong><em>Last Updated: 2023-09-19</em></strong></td>
+    <td style="width:20%; text-align:left;"><strong><em>Author: Daniel Calbick</em></strong></td>
+    <td style="width:60%;"></td>
+    <td style="width:20%; text-align:right;"><strong><em>Last Updated: 2023-09-19</em></strong></td>
   </tr>
 </table>
 
-
-<!-- <table style="width:100%; border: none;">
-  <tr style="border: none;">
-    <td style="text-align: left; border: none;"><strong><em>Author: Daniel Calbick</em></strong></td>
-    <td style="text-align: right; border: none;"><strong><em>Last Updated: 2023-09-19</em></strong></td>
-  </tr>
-</table> -->
 
 
