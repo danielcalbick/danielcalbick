@@ -74,18 +74,10 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 
 
-<link rel="stylesheet" href="https://github.com/danielcalbick/github-profile-assets/blob/main/styles.css">
-
-
-<p align="center">
-<strong><em>Here is some misc that I really enjoy ...</em></strong>
-</p>
-
-
-
-<h1 align="center">
-<strong><em>Here is some misc that I really enjoy ...</em></strong>
+<h1 align="center" style="font-size: 36px;">
+    <strong><em>Here is some misc that I really enjoy ...</em></strong>
 </h1>
+
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
