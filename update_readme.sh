@@ -6,7 +6,7 @@
 source ~/.zshrc
 
 # Navigate to your repository's directory if not already there
-cd ~/danielcalbick/Misc_codingProjects/danielcalbick
+cd ~/Misc_codingProjects/danielcalbick
 
 # Push changes to the profile-assets repo
 git add -A 
