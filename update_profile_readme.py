@@ -3,11 +3,6 @@
 
 import os
 import base64
-import subprocess
-
-# Function to run shell command and return output
-def run_command(command):
-    return subprocess.run(command, stdout=subprocess.PIPE, text=True, shell=True).stdout.strip()
 
 def update_readme(readme_path, logos_dir):
     # Save original README content
@@ -52,6 +47,6 @@ def update_readme(readme_path, logos_dir):
             f.write(original_content)
 
 if __name__ == "__main__":
-    readme_path = "../danielcalbick/README.md"
+    readme_path = "README.md"
     logos_dir = "./logos"
     update_readme(readme_path, logos_dir)
