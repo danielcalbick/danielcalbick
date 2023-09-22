@@ -9,7 +9,8 @@ source ~/.zshrc
 cd ~/danielcalbick/Misc_codingProjects/danielcalbick
 
 # Push changes to the profile-assets repo
-git add -A && git reset README.md
+git add -A 
+git reset README.md
 git commit -m 'Syncing local and remote'; git push
 
 # Push readme by itself
