@@ -73,23 +73,18 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 </ul>
 
 
-<html>
-<head>
-  <style>
-    .centered-bold-italic {
-      text-align: center;
-      font-size: 36px;
-      font-weight: bold;
-      font-style: italic;
-    }
-  </style>
-</head>
-<body>
 
-<p class="centered-bold-italic">Here is some misc that I really enjoy ...</p>
+<p align="center">
 
-</body>
-</html>
+<style>
+p {
+  font-size: 36px;  
+}
+</style>
+
+<strong><em>Here is some misc that I really enjoy...</em></strong>
+
+</p>
 
 
 <div align="center">
