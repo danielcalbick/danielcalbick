@@ -72,6 +72,13 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     <li>Fun Fact: [Fun Fact]</li>
 </ul>
 
+
+## Congrats you made it to the bottom (thanks reading me 😜)
+# Here is some misc that I really enjoy
+
+[![Watch the video](https://img.youtube.com/vi/v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute/0.jpg)](https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute)
+
+
 <!-- ## Work in Progress
 
 - [Dynamic Network Analysis](https://github.com/yourusername/dynamic-network-analysis) -->
