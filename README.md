@@ -109,13 +109,9 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <strong><em>Author: Daniel Calbick</em></strong>
-  </div>
-  <div>
-    <strong><em>Last Updated: 2023-09-19</em></strong>
-  </div>
-</div>
+<strong><em>Author: Daniel Calbick</em></strong> 
+<span style="float:right;">
+<strong><em>Last Updated: 2023-09-19</em></strong>
+</span>
 
 
