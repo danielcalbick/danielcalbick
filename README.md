@@ -73,12 +73,16 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 </ul>
 
 
-# Congrats you made it to the bottom (thanks reading me 😜)
-<p align="center"> <strong>Here is some misc that I really enjoy</strong></p>
 
+<p align="center" style="font-size: 24px;">
+    <strong>Here is some misc that I really enjoy</strong>
+</p>
 
-[![Watch the video](https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg)](https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute)
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
+    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200">
+  </a>
+</p>
 
 <!-- ## Work in Progress
 
