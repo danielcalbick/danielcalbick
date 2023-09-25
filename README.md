@@ -1,3 +1,9 @@
+<style>
+  body {
+    font-size: 30px;
+  }
+</style>
+
 <h1 align="center">Hello and welcome! I'm Daniel Calbick!</h1>
 <p align="center"> How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></p>
 
@@ -9,14 +15,9 @@
 </p>
 
 <!-- CNCL logo insert -->
-<!-- <p align="center">
-    <img src="https://github.com/danielcalbick/danielcalbick/blob/profile-assets/images/CNCL_logo.svg" alt="CNCL Logo" width="460">
-</p> -->
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/danielcalbick/danielcalbick/profile-assets/images/CNCL_logo.svg" alt="CNCL Logo" width="460">
 </p>
-
 
 <!-- About me -->
 <p style="text-align: justify;">
@@ -77,7 +78,7 @@ My journey to academia has been anything but linear. It has taken me from the ed
 </p>
 
 <!-- Hermione Image Insert -->
-<img src="https://github.com/danielcalbick/danielcalbick/blob/profile-assets/images/lhermione.jpeg?raw=true" alt="Boat Photo" style="width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/danielcalbick/danielcalbick/profile-assets/images/lhermione.jpeg" alt="Boat Photo" style="width: 100%; height: auto;">
 
 <!-- Description of ife now -->
 <p style="text-align: justify;">
