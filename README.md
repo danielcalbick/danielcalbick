@@ -1,9 +1,8 @@
 <style>
-  body {
-    font-size: 30px;
+  p {
+    font-size: 16px;
   }
 </style>
-#
 
 <h1 align="center">Hello and welcome! I'm Daniel Calbick!</h1>
 <p align="center"> How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></p>
