@@ -13,6 +13,10 @@
     <img src="https://github.com/danielcalbick/danielcalbick/blob/profile-assets/images/CNCL_logo.svg" alt="CNCL Logo" width="460">
 </p>
 
+<p align="center">
+    <object data="https://github.com/danielcalbick/danielcalbick/blob/profile-assets/images/CNCL_logo.svg" type="image/svg+xml" alt="CNCL Logo" width="460"></object>
+</p>
+
 <!-- About me -->
 <p style="text-align: justify;">
 I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
