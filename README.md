@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/danielcalbick/danielcalbick/profile-assets/styles.css">
+<link rel="stylesheet" type="text/css" href="https://github.com/danielcalbick/danielcalbick/blob/profile-assets/styles.css">
 
 <h1 align="center">Hello and welcome! I'm Daniel Calbick!</h1>
 <p align="center"> How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></p>
