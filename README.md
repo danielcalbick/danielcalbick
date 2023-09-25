@@ -32,10 +32,14 @@ I'm on a quest to unravel the mysteries of the mind. My research sits at the int
 
 ![Dynamic Network](https://raw.githubusercontent.com/yourusername/yourusername/main/dynamic_network.gif)
 
+<!-- ## Work in Progress
+
+- [Dynamic Network Analysis](https://github.com/yourusername/dynamic-network-analysis) -->
+
 <!-- ------------ -->
 <!-- Tech & Tools -->
 <!-- ------------ -->
-<h2 align="center">Tech and Tools I Use Frequently</h2>
+<h2 align="center">Tech & Tools I Use Frequently</h2>
 
 <!-- Badges -->
 <a href="https://www.mathworks.com/products/matlab.html">
@@ -87,16 +91,24 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     <li>Fun Fact: [Fun Fact]</li>
 </ul>
 
-
 <!-- ------------- -->
 <!-- Misc Ending   -->
 <!-- ------------- -->
-# Congrats you made it to the bottom (thanks for reading me 😜)
+---
+<!-- Header -->
+<h1 align="center">
+    <strong>Congrats you made it to the bottom (thanks for reading me 😜)</strong>
+</h1>
+
+---
+
+<h4 align="center">
+    <strong><em>Here is some misc that I really enjoy</em></strong>
+</h4>
 
 <h5 align="left">
-    <strong><em>Here is some misc that I really enjoy ...</em></strong>
+    <strong><em>Neuroscience, Complex Systems, Emergence,...</em></strong>
 </h5>
-
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
@@ -107,10 +119,13 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
   </a>
 </div>
 
-<h5 align="left">
-    <strong><em>Here is some misc that's been on my mind' ...</em></strong>
-</h5>
+<h4 align="Center">
+    <strong><em>Here is some misc that's been on my mind</em></strong>
+</h4>
 
+<h5 align="left">
+    <strong><em>Existential dread...</em></strong>
+</h5>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
@@ -120,10 +135,6 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200" style="margin: 5px;">
   </a>
 </div>
-
-<!-- ## Work in Progress
-
-- [Dynamic Network Analysis](https://github.com/yourusername/dynamic-network-analysis) -->
 
 ## 📈 GitHub Stats
 
