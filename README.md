@@ -9,13 +9,14 @@
 </p>
 
 <!-- CNCL logo insert -->
-<p align="center">
+<!-- <p align="center">
     <img src="https://github.com/danielcalbick/danielcalbick/blob/profile-assets/images/CNCL_logo.svg" alt="CNCL Logo" width="460">
-</p>
+</p> -->
 
 <p align="center">
-    <object data="https://github.com/danielcalbick/danielcalbick/blob/profile-assets/images/CNCL_logo.svg" type="image/svg+xml" alt="CNCL Logo" width="460"></object>
+    <img src="https://raw.githubusercontent.com/danielcalbick/danielcalbick/profile-assets/images/CNCL_logo.svg" alt="CNCL Logo" width="460">
 </p>
+
 
 <!-- About me -->
 <p style="text-align: justify;">
