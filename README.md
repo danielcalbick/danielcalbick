@@ -1,19 +1,27 @@
 <h1 align="center">Hello and welcome! I'm Daniel Calbick!</h1>
 <p align="center"> How to reach me: <a href="mailto:daniel.calbick@yale.edu">daniel.calbick@yale.edu</a></p>
 
+<!-- ----------- -->
+<!-- Intro Block -->
+<!-- ----------- -->
 <p align="center">  
     <strong>I am Neuroscience Ph.D. student at Yale University, working in the Cognative and Neural Computation Lab.</strong>
 </p>
 
+<!-- CNCL logo insert -->
 <p align="center">
     <img src="https://github.com/danielcalbick/danielcalbick/blob/profile-assets/images/CNCL_logo.svg" alt="CNCL Logo" width="460">
 </p>
 
+<!-- About me -->
 <p style="text-align: justify;">
 I'm on a quest to unravel the mysteries of the mind. My research sits at the intersection of neuroscience, cognitive science, and machine learning, focusing on how complex and dynamic recurrent networks model the world around them to generate abstractions, thoughts, and behavior.
 </p>
-      
-### Research Interests
+
+<!-- Research Interests -->
+<center>
+    <h3 align="left">Research Interests</h3>
+</center>
 
 - Dynamic Networks and Systems
 - Neural Data Analysis
@@ -23,49 +31,55 @@ I'm on a quest to unravel the mysteries of the mind. My research sits at the int
 
 ![Dynamic Network](https://raw.githubusercontent.com/yourusername/yourusername/main/dynamic_network.gif)
 
-<center>
-    
+<!-- ------------ -->
+<!-- Tech & Tools -->
+<!-- ------------ -->
 <h2 align="center">Tech and Tools I Use Frequently</h2>
 
-</center>
-
+<!-- Badges -->
 <a href="https://www.mathworks.com/products/matlab.html">
-    <img src="https://img.shields.io/badge/-Matlab-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,matlab_logo.svg" alt="Matlab" width="150" height="50"/>
+    <img src="https://img.shields.io/badge/-Matlab-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI3LjguMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA4MDAgODAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA4MDAgODAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzQ0OTlERDt9Cgkuc3Qxe2ZpbGw6dXJsKCNTVkdJRF8xXyk7fQoJLnN0MntmaWxsOnVybCgjU1ZHSURfMDAwMDAxMzg1NzE1ODExODEyOTgyNzI2NzAwMDAwMDY2NDI3ODY2MzAwOTc0OTE4NzlfKTt9Cjwvc3R5bGU+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik01MCw0MzguN2wxOTkuMi04MC41YzIwLjItMjYuNyw0My01MS40LDY4LTczLjhjMTYuNS04LjgsNDcuNS00LDEwNC4yLTc0LjVjNTUtNjguOCw3Mi41LTEyNy41LDk4LjItMTI3LjUKCWM0MC44LDAsNzAuOCw4OCwxMTYuMiwyMjEuMmMzMi40LDEwMS44LDcwLjUsMjAxLjcsMTE0LDI5OS4yYy00Ny41LTQ0LjItODgtOTItMTM0LjItOTAuN2MtNDMsMS05MC44LDUyLTE0MywxMTcuNQoJYy00MS41LDUyLjUtOTYuNSw4OC41LTExOCw4Ny44YzAsMC01NS41LTE1Ny0xMDItMTgyLjVjLTE5LjYtOC00MS44LTYuMS01OS44LDVMNTAsNDM4LjVWNDM4Ljd6Ii8+CjxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHSURfMV8iIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iLTUxOS44MzY4IiB5MT0iOTI5LjkyOSIgeDI9Ii01MjEuNjI2OCIgeTI9IjkyNC4xNDg5IiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDI1IDAgMCAyNSAxMzQxNiAtMjI4NjQpIj4KCTxzdG9wICBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOiM1NTExMjIiLz4KCTxzdG9wICBvZmZzZXQ9IjAuMjMiIHN0eWxlPSJzdG9wLWNvbG9yOiM1NTIyMzMiLz4KCTxzdG9wICBvZmZzZXQ9IjAuMzYiIHN0eWxlPSJzdG9wLWNvbG9yOiM1NTMzNDQiLz4KCTxzdG9wICBvZmZzZXQ9IjAuNTEiIHN0eWxlPSJzdG9wLWNvbG9yOiM2NjQ0NTUiLz4KCTxzdG9wICBvZmZzZXQ9IjAuNjYiIHN0eWxlPSJzdG9wLWNvbG9yOiM1NTY2ODgiLz4KCTxzdG9wICBvZmZzZXQ9IjAuODQiIHN0eWxlPSJzdG9wLWNvbG9yOiMyMjk5REQiLz4KPC9saW5lYXJHcmFkaWVudD4KPHBhdGggY2xhc3M9InN0MSIgZD0iTTQ5NSwxMDAuNWMtMTYuOCwyMi41LTM3LDYzLjgtNzMuNSwxMDkuNWMtNTYuOCw3MC41LTg3LjUsNjUuOC0xMDQuMiw3NC41Yy0yNS4xLDIyLjItNDcuOSw0Ni45LTY4LDczLjgKCWw4Mi41LDYwLjNjNzAtOTUuNSwxMDcuNS0xOTksMTM2LjctMjY2QzQ3NS44LDEzNC40LDQ4NC43LDExNyw0OTUsMTAwLjV6Ii8+CjxsaW5lYXJHcmFkaWVudCBpZD0iU1ZHSURfMDAwMDAxNDE0NDcyMTM5MzI4MTYzNjM2OTAwMDAwMDU3MzE5MTE2ODE1NjMwNTc1NTBfIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9Ii01MDYuOTMiIHkxPSI5MTYuNDU3MiIgeDI9Ii01MjQuOTI5OSIgeTI9IjkyMC44NzcyIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDI1IDAgMCAtMjUgMTM0MTYgMjMzODYpIj4KCTxzdG9wICBvZmZzZXQ9IjguMTAwMDAwZS0wMiIgc3R5bGU9InN0b3AtY29sb3I6I0NDMzMzMyIvPgoJPHN0b3AgIG9mZnNldD0iMC4xODkiIHN0eWxlPSJzdG9wLWNvbG9yOiNERTUyMzkiLz4KCTxzdG9wICBvZmZzZXQ9IjAuMzEzIiBzdHlsZT0ic3RvcC1jb2xvcjojRjA2RTNFIi8+Cgk8c3RvcCAgb2Zmc2V0PSIwLjQyMSIgc3R5bGU9InN0b3AtY29sb3I6I0ZBODA0MiIvPgoJPHN0b3AgIG9mZnNldD0iMC41IiBzdHlsZT0ic3RvcC1jb2xvcjojRkU4NjQzIi8+Cgk8c3RvcCAgb2Zmc2V0PSIwLjU4IiBzdHlsZT0ic3RvcC1jb2xvcjojRkE3RjQyIi8+Cgk8c3RvcCAgb2Zmc2V0PSIwLjY5NiIgc3R5bGU9InN0b3AtY29sb3I6I0VGNkMzRSIvPgoJPHN0b3AgIG9mZnNldD0iMC44MzMiIHN0eWxlPSJzdG9wLWNvbG9yOiNEQzRDMzciLz4KCTxzdG9wICBvZmZzZXQ9IjAuOTE2IiBzdHlsZT0ic3RvcC1jb2xvcjojQ0YzNjMzIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxwYXRoIHN0eWxlPSJmaWxsOnVybCgjU1ZHSURfMDAwMDAxNDE0NDcyMTM5MzI4MTYzNjM2OTAwMDAwMDU3MzE5MTE2ODE1NjMwNTc1NTBfKTsiIGQ9Ik01MjAsODIuNWMtNTQuNSwwLTkxLjgsMjg3LTI5Myw0NDcuMgoJYzU2LjUtOS4yLDEwNS41LDEzMSwxMjgsMTg3LjhjMTAwLTE3LDE4MC0yMDguMywyNjAuOC0yMDUuM0M2NjIsNTE0LDcwMi41LDU1OC43LDc1MCw2MDNDNjQxLjUsMzc1LDU5MC44LDgyLjUsNTIwLDgyLjV6Ii8+Cjwvc3ZnPgo=" alt="Matlab" width="150" height="50"/>
 </a>
 
 <a href="https://julialang.org/">
-    <img src="https://img.shields.io/badge/-Julia-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,julia_logo.svg" alt="Julia" width="150" height="50"/>
+    <img src="https://img.shields.io/badge/-Julia-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI3LjguMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxMDY0LjcgOTU1LjYiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwNjQuNyA5NTUuNjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiNGRkZGRkY7fQoJLnN0MXtmaWxsOiMzRjlFNDQ7fQoJLnN0MntmaWxsOiNBMDA3MUE7fQoJLnN0M3tmaWxsOiM5QjNFODE7fQo8L3N0eWxlPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNODQ1LjMsOTA1LjdIMjA0LjRjLTkzLjksMC0xNzAtNzYuMS0xNzAtMTcwVjIxMi40YzAtOTMuOSw3Ni4xLTE3MCwxNzAtMTcwaDY0MC45YzkzLjksMCwxNzAsNzYuMSwxNzAsMTcwCgl2NTIzLjNDMTAxNS4zLDgyOS42LDkzOS4yLDkwNS43LDg0NS4zLDkwNS43eiIvPgo8Zz4KCTxnPgoJCTxjaXJjbGUgY2xhc3M9InN0MSIgY3g9IjUyNC45IiBjeT0iMjcxLjYiIHI9IjE3OC45Ii8+CgkJPHBhdGggZD0iTTUyNC45LDkzLjJjMjQuMSwwLDQ3LjQsNC43LDY5LjQsMTRjMjEuMiw5LDQwLjMsMjEuOCw1Ni43LDM4LjJjMTYuNCwxNi40LDI5LjIsMzUuNSwzOC4yLDU2LjdjOS4zLDIyLDE0LDQ1LjQsMTQsNjkuNAoJCQlzLTQuNyw0Ny40LTE0LDY5LjRjLTksMjEuMi0yMS44LDQwLjMtMzguMiw1Ni43Yy0xNi40LDE2LjQtMzUuNSwyOS4yLTU2LjcsMzguMmMtMjIsOS4zLTQ1LjQsMTQtNjkuNCwxNAoJCQljLTI0LjEsMC00Ny40LTQuNy02OS40LTE0Yy0yMS4yLTktNDAuMy0yMS44LTU2LjctMzguMmMtMTYuNC0xNi40LTI5LjItMzUuNS0zOC4yLTU2LjdjLTkuMy0yMi0xNC00NS40LTE0LTY5LjRzNC43LTQ3LjQsMTQtNjkuNAoJCQljOS0yMS4yLDIxLjgtNDAuMywzOC4yLTU2LjdjMTYuNC0xNi40LDM1LjUtMjkuMiw1Ni43LTM4LjJDNDc3LjQsOTcuOSw1MDAuOCw5My4yLDUyNC45LDkzLjIgTTUyNC45LDkyLjIKCQkJYy05OS4xLDAtMTc5LjQsODAuMy0xNzkuNCwxNzkuNHM4MC4zLDE3OS40LDE3OS40LDE3OS40Yzk5LjEsMCwxNzkuNC04MC4zLDE3OS40LTE3OS40UzYyMy45LDkyLjIsNTI0LjksOTIuMkw1MjQuOSw5Mi4yeiIvPgoJPC9nPgoJPGc+CgkJPGNpcmNsZSBjbGFzcz0ic3QyIiBjeD0iMjczIiBjeT0iNjc2LjYiIHI9IjE3OC45Ii8+CgkJPHBhdGggZD0iTTI3Myw0OTguMmMyNC4xLDAsNDcuNCw0LjcsNjkuNCwxNGMyMS4yLDksNDAuMywyMS44LDU2LjcsMzguMmMxNi40LDE2LjQsMjkuMiwzNS41LDM4LjIsNTYuN2M5LjMsMjIsMTQsNDUuNCwxNCw2OS40CgkJCXMtNC43LDQ3LjQtMTQsNjkuNGMtOSwyMS4yLTIxLjgsNDAuMy0zOC4yLDU2LjdzLTM1LjUsMjkuMi01Ni43LDM4LjJjLTIyLDkuMy00NS40LDE0LTY5LjQsMTRjLTI0LjEsMC00Ny40LTQuNy02OS40LTE0CgkJCWMtMjEuMi05LTQwLjMtMjEuOC01Ni43LTM4LjJjLTE2LjQtMTYuNC0yOS4yLTM1LjUtMzguMi01Ni43Yy05LjMtMjItMTQtNDUuNC0xNC02OS40czQuNy00Ny40LDE0LTY5LjQKCQkJYzktMjEuMiwyMS44LTQwLjMsMzguMi01Ni43YzE2LjQtMTYuNCwzNS41LTI5LjIsNTYuNy0zOC4yQzIyNS42LDUwMi45LDI0OC45LDQ5OC4yLDI3Myw0OTguMiBNMjczLDQ5Ny4yCgkJCWMtOTkuMSwwLTE3OS40LDgwLjMtMTc5LjQsMTc5LjRTMTczLjksODU1LjksMjczLDg1NS45Yzk5LjEsMCwxNzkuNC04MC4zLDE3OS40LTE3OS40UzM3Mi4xLDQ5Ny4yLDI3Myw0OTcuMkwyNzMsNDk3LjJ6Ii8+Cgk8L2c+Cgk8Zz4KCQk8Y2lyY2xlIGNsYXNzPSJzdDMiIGN4PSI3NzYuOCIgY3k9IjY3Ni42IiByPSIxNzguOSIvPgoJCTxwYXRoIGQ9Ik03NzYuOCw0OTguMmMyNC4xLDAsNDcuNCw0LjcsNjkuNCwxNGMyMS4yLDksNDAuMywyMS44LDU2LjcsMzguMmMxNi40LDE2LjQsMjkuMiwzNS41LDM4LjIsNTYuN2M5LjMsMjIsMTQsNDUuNCwxNCw2OS40CgkJCXMtNC43LDQ3LjQtMTQsNjkuNGMtOSwyMS4yLTIxLjgsNDAuMy0zOC4yLDU2LjdzLTM1LjUsMjkuMi01Ni43LDM4LjJjLTIyLDkuMy00NS40LDE0LTY5LjQsMTRjLTI0LjEsMC00Ny40LTQuNy02OS40LTE0CgkJCWMtMjEuMi05LTQwLjMtMjEuOC01Ni43LTM4LjJjLTE2LjQtMTYuNC0yOS4yLTM1LjUtMzguMi01Ni43Yy05LjMtMjItMTQtNDUuNC0xNC02OS40czQuNy00Ny40LDE0LTY5LjQKCQkJYzktMjEuMiwyMS44LTQwLjMsMzguMi01Ni43YzE2LjQtMTYuNCwzNS41LTI5LjIsNTYuNy0zOC4yQzcyOS4zLDUwMi45LDc1Mi43LDQ5OC4yLDc3Ni44LDQ5OC4yIE03NzYuOCw0OTcuMgoJCQljLTk5LjEsMC0xNzkuNCw4MC4zLTE3OS40LDE3OS40czgwLjMsMTc5LjQsMTc5LjQsMTc5LjRjOTkuMSwwLDE3OS40LTgwLjMsMTc5LjQtMTc5LjRTODc1LjgsNDk3LjIsNzc2LjgsNDk3LjJMNzc2LjgsNDk3LjJ6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==" alt="Julia" width="150" height="50"/>
 </a>
 
 <a href="https://www.gen.dev/">
-    <img src="https://img.shields.io/badge/-Gen-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,gen_logo.svg" alt="Gen" width="150" height="50"/>
+    <img src="https://img.shields.io/badge/-Gen-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI3LjguMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA4NTQuOCA4OTIuNiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgODU0LjggODkyLjY7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojRkZGRkZGO30KCS5zdDF7ZmlsdGVyOnVybCgjQWRvYmVfT3BhY2l0eU1hc2tGaWx0ZXIpO30KCS5zdDJ7bWFzazp1cmwoI1NWR0lEXzFfKTt9Cjwvc3R5bGU+CjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik02NTUuNCw4MDQuM0gxODkuNWMtNzQuNSwwLTEzNC45LTYwLjQtMTM0LjktMTM0LjlWMjEzLjljMC03NC41LDYwLjQtMTM0LjksMTM0LjktMTM0LjloNDY1LjgKCWM3NC41LDAsMTM0LjksNjAuNCwxMzQuOSwxMzQuOXY0NTUuNUM3OTAuMyw3NDMuOSw3MjkuOSw4MDQuMyw2NTUuNCw4MDQuM3oiLz4KPGc+Cgk8ZGVmcz4KCQk8ZmlsdGVyIGlkPSJBZG9iZV9PcGFjaXR5TWFza0ZpbHRlciIgZmlsdGVyVW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4PSIyMTYuNiIgeT0iMjA4LjMiIHdpZHRoPSI0MTIiIGhlaWdodD0iNDQ1Ij4KCQkJPGZlRmxvb2QgIHN0eWxlPSJmbG9vZC1jb2xvcjp3aGl0ZTtmbG9vZC1vcGFjaXR5OjEiIHJlc3VsdD0iYmFjayIvPgoJCQk8ZmVCbGVuZCAgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iYmFjayIgbW9kZT0ibm9ybWFsIi8+CgkJPC9maWx0ZXI+Cgk8L2RlZnM+Cgk8bWFzayBtYXNrVW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4PSIyMTYuNiIgeT0iMjA4LjMiIHdpZHRoPSI0MTIiIGhlaWdodD0iNDQ1IiBpZD0iU1ZHSURfMV8iPgoJCTxnIGNsYXNzPSJzdDEiPgoJCQkKCQkJCTxpbWFnZSBzdHlsZT0ib3ZlcmZsb3c6dmlzaWJsZTsiIHdpZHRoPSI0MTYiIGhlaWdodD0iNDQ5IiB4bGluazpocmVmPSJERDlFQTFERDE5ODhEMUU4LmpwZyIgIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIDEgMjE0LjYzNTkgMjA2LjI4NTIpIj4KCQkJPC9pbWFnZT4KCQk8L2c+Cgk8L21hc2s+Cgk8ZyBjbGFzcz0ic3QyIj4KCQk8ZyBzdHlsZT0ib3BhY2l0eTowLjU1OyI+CgkJCQoJCQkJPGltYWdlIHN0eWxlPSJvdmVyZmxvdzp2aXNpYmxlOyIgd2lkdGg9IjQxMiIgaGVpZ2h0PSI0NDUiIHhsaW5rOmhyZWY9IkREOUVBMUREMTk4OEQxRTgucG5nIiAgdHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgMSAyMTYuNjM1OSAyMDguMjg1MikiPgoJCQk8L2ltYWdlPgoJCTwvZz4KCQk8Zz4KCQkJPHBhdGggZD0iTTYyMy4zLDQyNy41aC0yMy42aC03NS40djEzMS45Yy0yMi4xLDExLjUtNDcuNiwxOC4yLTc0LjksMTguMmMtODMuNCwwLTE1MS02MS42LTE1MS0xMzcuNnM2Ny42LTEzNy42LDE1MS0xMzcuNgoJCQkJYzQzLDAsODEuNywxNi41LDEwOS4yLDQyLjhsNjQuNy02MWgxLjhjLTQyLjYtNDQuNC0xMDQtNzIuNC0xNzIuNS03Mi40Yy0xMjguNSwwLTIzMi43LDk4LjEtMjMyLjcsMjE5LjFTMzI0LDY1MCw0NTIuNSw2NTAKCQkJCWM2Ny42LDAsMTI4LjItMjcuMywxNzAuNy03MC42VjQyNy41eiIvPgoJCTwvZz4KCTwvZz4KPC9nPgo8L3N2Zz4K" alt="Gen" width="150" height="50"/>
 </a>
 
 <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/-Python-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,python_logo.svg" alt="python" width="150" height="50"/>
+    <img src="https://img.shields.io/badge/-Python-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSItMTMzLjI2OCIgeTE9Ii0yMDIuOTEiIHgyPSItMTMzLjE5OCIgeTI9Ii0yMDIuODQiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjUyNDMuMDYxIDM4NTE5LjE3KSBzY2FsZSgxODkuMzggMTg5LjgxKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzM4N2ViOCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzM2Njk5NCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJiIiB4MT0iLTEzMy41NzUiIHkxPSItMjAzLjIwMyIgeDI9Ii0xMzMuNDk1IiB5Mj0iLTIwMy4xMzMiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjUzMDkuMDYxIDM4NTgzLjQyKSBzY2FsZSgxODkuMzggMTg5LjgxKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmZTA1MiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmYzMzMSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjx0aXRsZT5maWxlX3R5cGVfcHl0aG9uPC90aXRsZT48cGF0aCBkPSJNMTUuODg1LDIuMWMtNy4xLDAtNi42NTEsMy4wNy02LjY1MSwzLjA3VjguMzZoNi43NTJ2MUg2LjU0NVMyLDguOCwyLDE2LjAwNXM0LjAxMyw2LjkxMiw0LjAxMyw2LjkxMkg4LjMzVjE5LjU1NnMtLjEzLTQuMDEzLDMuOS00LjAxM2g2Ljc2MnMzLjc3Mi4wNiwzLjc3Mi0zLjY1MlY1LjhzLjU3Mi0zLjcxMi02Ljg0Mi0zLjcxMmgwWk0xMi4xNTMsNC4yMzdhMS4yMTQsMS4yMTQsMCwxLDEtMS4xODMsMS4yNDR2LS4wMmExLjIxNCwxLjIxNCwwLDAsMSwxLjIxNC0xLjIxNGgwWiIgc3R5bGU9ImZpbGw6dXJsKCNhKSIvPjxwYXRoIGQ9Ik0xNi4wODUsMjkuOTFjNy4xLDAsNi42NTEtMy4wOCw2LjY1MS0zLjA4VjIzLjY1SDE1Ljk4NXYtMWg5LjQ3UzMwLDIzLjE1OCwzMCwxNS45OTVzLTQuMDEzLTYuOTEyLTQuMDEzLTYuOTEySDIzLjY0VjEyLjRzLjEzLDQuMDEzLTMuOSw0LjAxM0gxMi45NzVTOS4yLDE2LjM1Niw5LjIsMjAuMDY4VjI2LjJzLS41NzIsMy43MTIsNi44NDIsMy43MTJoLjA0Wm0zLjczMi0yLjE0N0ExLjIxNCwxLjIxNCwwLDEsMSwyMSwyNi41MTl2LjAzYTEuMjE0LDEuMjE0LDAsMCwxLTEuMjE0LDEuMjE0aC4wM1oiIHN0eWxlPSJmaWxsOnVybCgjYikiLz48L3N2Zz4=" alt="python" width="150" height="50"/>
 </a>
 
 <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/-Numpy-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,numpy_logo.svg" alt="numpy" width="150" height="50"/>
+    <img src="https://img.shields.io/badge/-Numpy-black?style=flat?.svg&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgNTAwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6cmdiKDc3LCAxNzEsIDIwNyk7fS5jbHMtMntmaWxsOnJnYig3NywgMTE5LCAyMDcpO308L3N0eWxlPjwvZGVmcz48ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIj48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iMjIwLjkzIDEyNy4xNCAxNTEuNzcgOTIuMjMgNzUuODcgMTMwLjExIDE0Ni45IDE2NS43OCAyMjAuOTMgMTI3LjE0Ii8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjI1Mi42MyAxNDMuMTQgMzI1LjE0IDE3OS43NCAyNDkuOTEgMjE3LjUyIDE3OC43NyAxODEuNzkgMjUyLjYzIDE0My4xNCIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIzNDkuNDcgOTIuNzYgNDIzLjk2IDEzMC4xMSAzNTcuMzQgMTYzLjU3IDI4NC42OCAxMjYuOTIgMzQ5LjQ3IDkyLjc2Ii8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjMxNy40MSA3Ni42NyAyNTAuMzUgNDMuMDUgMTg0LjAxIDc2LjE1IDI1My4xMSAxMTEgMzE3LjQxIDc2LjY3Ii8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjI2NC45OCAzNjUuNDQgMjY0Ljk4IDQ1Ni45NSAzNDYuMjIgNDE2LjQxIDM0Ni4xMyAzMjQuODYgMjY0Ljk4IDM2NS40NCIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIzNDYuMSAyOTIuOTEgMzQ2LjAxIDIwMi4zMiAyNjQuOTggMjQyLjYgMjY0Ljk4IDMzMy4yMiAzNDYuMSAyOTIuOTEiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iNDQzLjYzIDI3NS45MyA0NDMuNjMgMzY3LjggMzc0LjM0IDQwMi4zOCAzNzQuMjkgMzEwLjkzIDQ0My42MyAyNzUuOTMiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iNDQzLjYzIDI0My44MSA0NDMuNjMgMTUzLjc5IDM3NC4yMSAxODguMyAzNzQuMjcgMjc5LjA3IDQ0My42MyAyNDMuODEiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0yMzYuMywyNDIuNmwtNTQuNzItMjcuNTFWMzM0cy02Ni45Mi0xNDIuMzktNzMuMTItMTU1LjE4Yy0uOC0xLjY1LTQuMDktMy40Ni00LjkzLTMuOS0xMi02LjMtNDcuMTYtMjQuMTEtNDcuMTYtMjQuMTFWMzYwLjg5bDQ4LjY0LDI2VjI3Ny4wOHM2Ni4yMSwxMjcuMjMsNjYuODgsMTI4LjYyLDcuMzIsMTQuOCwxNC40MiwxOS41MWM5LjQ2LDYuMjYsNTAsMzAuNjQsNTAsMzAuNjRaIi8+PC9nPjwvc3ZnPg==" alt="numpy" width="150" height="50"/>
 </a>
 
 <a href="https://scipy.org/">
     <img src="https://img.shields.io/badge/-Scipy-black?style=flat&logo=scipy" alt="scipy" width="150" height="50"/>
 </a>
 
-
+<!-- ------------- -->
+<!-- More About me -->
+<!-- ------------- -->
 <h2 align="center">More About Me ...</h2>
 
+<!-- Desciption of old life -->
 <p style="text-align: justify;">
 My journey to academia has been anything but linear. It has taken me from the editing rooms of a social impact documentary production company to crossing the Atlantic on the decks of 18th-century sailboats and now to the inner worlds of our minds. But here is a picture—-the best picture I've ever taken--of my old life and the last two boats I worked on:
 </p>
 
+<!-- Hermione Image Insert -->
 <img src="https://github.com/danielcalbick/danielcalbick/blob/profile-assets/images/lhermione.jpeg?raw=true" alt="Boat Photo" style="width: 100%; height: auto;">
 
+<!-- Description of ife now -->
 <p style="text-align: justify;">
 Today, I'm particularly interested in attentional, memory, inference, and generative systems in the brain. I aim to understand how these networks create generalized yet stable representations and actions—-all from self-orgenized, noisey, and highly reccurent neurons. My research interests extend to exploring mathematical representations of dynamic networks, how they can be applied to inference and probabalistic algorithms, engineering and control theory, and the emergent lexical and semantic structures that arise from attention and predictive coding (yeah who isn't interested in LLMs... but also beyond language; e.g. motor semantics of coordinated muscle fibers and groups to create semantic "movement languages"). Undergirding it all is a particularl interest in choas, self-orginized complexity, and dynamic networks/systems, with all the fascinatingly emergent properties that arise from them.
 </p>
 
+<!-- misc list -->
 <ul>
     <li>🤖🐵 Current Focus: Programming hypothesis-driven algorithms into recurrent neural networks (RNNs)</li>
     <li>(main) Programming Languages: Matlab, Python, Julia, Bash, HPC/Slurm (does that count?)</li>
@@ -73,15 +87,33 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 </ul>
 
 
+<!-- ------------- -->
+<!-- Misc Ending   -->
+<!-- ------------- -->
 # Congrats you made it to the bottom (thanks for reading me 😜)
-<h3 align="center" style="font-size: 12px;">
+
+<h5 align="left">
     <strong><em>Here is some misc that I really enjoy ...</em></strong>
-</h3>
+</h5>
 
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
     <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200" style="margin: 5px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
+    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200" style="margin: 5px;">
+  </a>
+</div>
+
+<h5 align="left">
+    <strong><em>Here is some misc that's been on my mind' ...</em></strong>
+</h5>
+
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
+    <img src="https://img.youtube.com/vi/mN87PWfj7LA/0.jpg" width="200" height="200" style="margin: 5px;">
   </a>
   <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
     <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200" style="margin: 5px;">
@@ -102,7 +134,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 - [Hypothesis-Driven Algorithms in RNNs](https://github.com/yourusername/hypothesis-driven-RNNs)
 - [Neural Data Analysis](https://github.com/yourusername/neural-data-analysis) -->
 
-## 📫 How to Reach Me this is a change
+## 📫 How to Reach Me
 
 - [LinkedIn](https://linkedin.com/in/yourusername)
 - [Google Scholar](https://scholar.google.com/citations?user=yourID)
