@@ -34,6 +34,27 @@ I'm on a quest to unravel the mysteries of the mind. My research sits at the int
 
 ![Dynamic Network](https://raw.githubusercontent.com/yourusername/yourusername/main/dynamic_network.gif)
 
+
+<center>
+    <h3 align="left">Work in Progress</h3>
+</center>
+
+<table align="center">
+  <tr>
+    <td align="center"> <!-- First Video -->
+      <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
+        <em>Nate Hagens: The Superorganism & the Future</em><br>
+        <img src="https://img.youtube.com/vi/-xr9rIQxwj4/mqdefault.jpg" width="320" height="180">
+      </a>
+    </td>
+    <td align="center"> <!-- Second Video -->
+      <a href="https://www.youtube.com/watch?v=4kBoLVvoqVY&t=4m35s">
+        <em>Daniel Schmachtenberger: Introduction to the Metacrisis</em><br>
+        <img src="https://media.licdn.com/dms/image/D4E12AQEEIX__e9GXpA/article-cover_image-shrink_600_2000/0/1693811587272?e=2147483647&v=beta&t=NT2j8RgXo14ta5d_vN8r31UfmuVYwP8hBMqlabGoV1U" width="320" height="180">
+      </a>
+    </td>
+  </tr>
+</table>
 <!-- ## Work in Progress
 
 - [Dynamic Network Analysis](https://github.com/yourusername/dynamic-network-analysis) -->
