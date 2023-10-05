@@ -111,12 +111,29 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 </h5>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
-    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200" style="margin: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
-    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200" style="margin: 5px;">
-  </a>
+  <!-- First Video -->
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <em>Evolving Brains: Solid, Liquid and Synthetic<br></em><br>
+    <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
+      <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="320" height="180">
+    </a>
+  </div>
+
+  <!-- Second Video -->
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <em>The Brain, Determinism, and <br> Cultural Implications</em><br>
+    <a href="https://www.youtube.com/watch?v=xhobcj2K9v4">
+      <img src="https://img.youtube.com/vi/xhobcj2K9v4/mqdefault.jpg" width="320" height="180">
+    </a>
+  </div>
+
+  <!-- Third Video -->
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <em>Attention Approximates Sparse<br>Distributed Memory</em><br>
+    <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">
+      <img src="https://img.youtube.com/vi/THIIk7LR9_8/mqdefault.jpg" width="320" height="180">
+    </a>
+  </div>
 </div>
 
 <h4 align="Center">
@@ -127,14 +144,33 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     <strong><em>Existential dread...</em></strong>
 </h5>
 
+
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
-    <img src="https://img.youtube.com/vi/mN87PWfj7LA/0.jpg" width="200" height="200" style="margin: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
-    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="200" height="200" style="margin: 5px;">
-  </a>
+  <!-- First Video -->
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <em>Nate Hagens:<br> The Superorganism & the Future</em><br>
+    <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
+    <img src="https://img.youtube.com/vi/-xr9rIQxwj4/mqdefault.jpg" width="320" height="180" style="margin: 5px;">
+    </a>
+  </div>
+
+  <!-- Second Video -->
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <em>Daniel Schmachtenberger:<br> Introduction to the Metacrisis</em><br>
+    <a href="https://www.youtube.com/watch?v=4kBoLVvoqVY">
+    <img src="https://media.licdn.com/dms/image/D4E12AQEEIX__e9GXpA/article-cover_image-shrink_600_2000/0/1693811587272?e=2147483647&v=beta&t=NT2j8RgXo14ta5d_vN8r31UfmuVYwP8hBMqlabGoV1U" width="320" height="180" style="margin: 5px;">
+    </a>
+  </div>
+
+  <!-- Third Video -->
+  <div style="display: inline-block; text-align: center; margin: 5px;">
+    <em>Kate Raworth:<br> The Most Sustainable Economy in the World</em><br>
+    <a href="https://www.youtube.com/watch?v=n7jjlKoLuCY">
+      <img src="https://www.sharesource.com.au/hubfs/Copy%20of%20Blog%20Template%202%20%286%29.png" width="320" height="180">
+    </a>
+  </div>
 </div>
+--- 
 
 ## 📈 GitHub Stats
 
@@ -146,13 +182,14 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 - [Hypothesis-Driven Algorithms in RNNs](https://github.com/yourusername/hypothesis-driven-RNNs)
 - [Neural Data Analysis](https://github.com/yourusername/neural-data-analysis) -->
 
+---
+
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [LinkedIn](https://linkedin.com/in/daniel-calbick)
 - [Google Scholar](https://scholar.google.com/citations?user=yourID)
 
 ---
-
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div><strong><em>Author: Daniel Calbick</em></strong></div>
