@@ -114,7 +114,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
   <tr>
     <td align="center"> <!-- First Video -->
         <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
-        <em>Evolving Brains: Solid, Liquid and Synthetic<br></em><br>
+        <em>Evolving Brains: Solid, Liquid and Synthetic</em><br>
         <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="320" height="180">
         </a>
     </td>
