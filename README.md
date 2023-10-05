@@ -148,18 +148,18 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 <div align="center">
   <!-- First Video -->
     <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation" style="display: inline-block;">
-    <em>Nate Hagens:<br> The Superorganism & the Future</em><br>
+    <p>Nate Hagens:<br> The Superorganism & the Future</p>
     <img src="https://img.youtube.com/vi/-xr9rIQxwj4/mqdefault.jpg" width="320" height="180" style="margin: 5px;">
     </a>
   <!-- Second Video -->
     <a href="https://www.youtube.com/watch?v=4kBoLVvoqVY" style="display: inline-block;">
-    <em>Daniel Schmachtenberger:<br> Introduction to the Metacrisis</em><br>
+    <p>Daniel Schmachtenberger:<br> Introduction to the Metacrisis</p>
     <img src="https://media.licdn.com/dms/image/D4E12AQEEIX__e9GXpA/article-cover_image-shrink_600_2000/0/1693811587272?e=2147483647&v=beta&t=NT2j8RgXo14ta5d_vN8r31UfmuVYwP8hBMqlabGoV1U" width="320" height="180" style="margin: 5px;">
     </a>
   <!-- Third Video -->
     <a href="https://www.youtube.com/watch?v=n7jjlKoLuCY" style="display: inline-block;">
-        <em>Kate Raworth:<br> The Most Sustainable Economy in the World</em><br>
-        <img src="https://www.sharesource.com.au/hubfs/Copy%20of%20Blog%20Template%202%20%286%29.png" width="320" height="180">
+        <p>Kate Raworth:<br> The Most Sustainable Economy in the World</p>
+        <img src="https://www.sharesource.com.au/hubfs/Copy%20of%20Blog%20Template%202%20%286%29.png" width="320" height="180" style="margin: 5px;>
     </a>
 
 </div>
