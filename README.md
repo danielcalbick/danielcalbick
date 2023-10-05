@@ -170,6 +170,21 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     </a>
   </div>
 </div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
+    Evolving Brains: Solid, Liquid and Synthetic<br>
+    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="320" height="180" style="margin: 5px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=xhobcj2K9v4">
+    The Brain, Determinism, and Cultural Implications<br>
+    <img src="https://img.youtube.com/vi/xhobcj2K9v4/mqdefault.jpg" width="320" height="180" style="margin: 5px;">
+  </a>
+  <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">
+    Attention Approximates Sparse Distributed Memory<br>
+    <img src="https://img.youtube.com/vi/THIIk7LR9_8/mqdefault.jpg" width="320" height="180" style="margin: 5px;">
+  </a>
+</div>
 --- 
 
 ## 📈 GitHub Stats
