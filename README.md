@@ -144,7 +144,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 
 
-<table align="center" border="none">
+<table align="center" border="0">
   <tr>
     <td align="center"> <!-- First Video -->
       <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
