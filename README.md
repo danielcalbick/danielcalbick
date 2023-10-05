@@ -147,44 +147,30 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 <div align="center">
   <!-- First Video -->
-  <div style="display: inline-block; text-align: center; margin: 5px;">
+  <p style="display: inline-block; text-align: center; margin: 5px;">
     <em>Nate Hagens:<br> The Superorganism & the Future</em><br>
     <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
     <img src="https://img.youtube.com/vi/-xr9rIQxwj4/mqdefault.jpg" width="320" height="180" style="margin: 5px;">
     </a>
-  </div>
+  </p>
 
   <!-- Second Video -->
-  <div style="display: inline-block; text-align: center; margin: 5px;">
+  <p style="display: inline-block; text-align: center; margin: 5px;">
     <em>Daniel Schmachtenberger:<br> Introduction to the Metacrisis</em><br>
     <a href="https://www.youtube.com/watch?v=4kBoLVvoqVY">
     <img src="https://media.licdn.com/dms/image/D4E12AQEEIX__e9GXpA/article-cover_image-shrink_600_2000/0/1693811587272?e=2147483647&v=beta&t=NT2j8RgXo14ta5d_vN8r31UfmuVYwP8hBMqlabGoV1U" width="320" height="180" style="margin: 5px;">
     </a>
-  </div>
+  </p>
 
   <!-- Third Video -->
-  <div style="display: inline-block; text-align: center; margin: 5px;">
+  <p style="display: inline-block; text-align: center; margin: 5px;">
     <em>Kate Raworth:<br> The Most Sustainable Economy in the World</em><br>
     <a href="https://www.youtube.com/watch?v=n7jjlKoLuCY">
       <img src="https://www.sharesource.com.au/hubfs/Copy%20of%20Blog%20Template%202%20%286%29.png" width="320" height="180">
     </a>
-  </div>
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
-    Evolving Brains: Solid, Liquid and Synthetic<br>
-    <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="320" height="180" style="margin: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=xhobcj2K9v4">
-    The Brain, Determinism, and Cultural Implications<br>
-    <img src="https://img.youtube.com/vi/xhobcj2K9v4/mqdefault.jpg" width="320" height="180" style="margin: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">
-    Attention Approximates Sparse Distributed Memory<br>
-    <img src="https://img.youtube.com/vi/THIIk7LR9_8/mqdefault.jpg" width="320" height="180" style="margin: 5px;">
-  </a>
-</div>
 --- 
 
 ## 📈 GitHub Stats
