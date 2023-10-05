@@ -153,7 +153,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
       </a>
     </td>
     <td align="center"> <!-- Second Video -->
-      <a href="https://www.youtube.com/watch?v=4kBoLVvoqVY">
+      <a href="https://www.youtube.com/watch?v=4kBoLVvoqVY&t=4m35s">
         <em>Daniel Schmachtenberger:<br> Introduction to the Metacrisis</em><br>
         <img src="https://media.licdn.com/dms/image/D4E12AQEEIX__e9GXpA/article-cover_image-shrink_600_2000/0/1693811587272?e=2147483647&v=beta&t=NT2j8RgXo14ta5d_vN8r31UfmuVYwP8hBMqlabGoV1U" width="320" height="180">
       </a>
