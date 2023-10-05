@@ -110,8 +110,8 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     <strong><em>Neuroscience, Complex Systems, Emergence,...</em></strong>
 </h5>
 
-<table align="center">
-  <tr>
+<table align="center" style="border: 0;">
+  <tr style="border: 0;">
     <td align="center"> <!-- First Video -->
         <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
         <em>Evolving Brains: Solid, Liquid and Synthetic</em><br>
