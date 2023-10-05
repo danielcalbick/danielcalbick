@@ -110,21 +110,21 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     <strong><em>Neuroscience, Complex Systems, Emergence,...</em></strong>
 </h5>
 
-<table align="center" style="border: 0;">
-  <tr style="border: 0;">
-    <td align="center"> <!-- First Video -->
+<table align="center" border="none">
+  <tr border="none">
+    <td align="center" border="none"> <!-- First Video -->
         <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
         <em>Evolving Brains: Solid, Liquid and Synthetic</em><br>
         <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="320" height="180">
         </a>
     </td>
-    <td align="center"> <!-- Second Video -->
+    <td align="center" border="none"> <!-- Second Video -->
         <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">
         <em>Attention Approximates Sparse Distributed Memory</em><br>
         <img src="https://img.youtube.com/vi/THIIk7LR9_8/mqdefault.jpg" width="320" height="180">
         </a>
     </td>
-    <td align="center"> <!-- Third Video -->
+    <td align="center" border="none"> <!-- Third Video -->
         <a href="https://www.youtube.com/watch?v=xhobcj2K9v4">
         <em>The Brain, Determinism, & Cultural Implications</em><br>
         <img src="https://img.youtube.com/vi/xhobcj2K9v4/mqdefault.jpg" width="320" height="180">
@@ -134,7 +134,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 </table>
 
 
-<h4 align="Center">
+<h4 align="Center" >
     <strong><em>Here is some misc that's been on my mind</em></strong>
 </h4>
 
@@ -144,7 +144,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 
 
-<table align="center">
+<table align="center" border="none">
   <tr>
     <td align="center"> <!-- First Video -->
       <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
