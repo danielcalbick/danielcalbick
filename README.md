@@ -110,31 +110,29 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     <strong><em>Neuroscience, Complex Systems, Emergence,...</em></strong>
 </h5>
 
-<div align="center">
-  <!-- First Video -->
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <em>Evolving Brains: Solid, Liquid and Synthetic<br></em><br>
-    <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
-      <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="320" height="180">
-    </a>
-  </div>
+<table align="center">
+  <tr>
+    <td align="center"> <!-- First Video -->
+        <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
+        <em>Evolving Brains: Solid, Liquid and Synthetic<br></em><br>
+        <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="320" height="180">
+        </a>
+    </td>
+    <td align="center"> <!-- Second Video -->
+        <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">
+        <em>Attention Approximates Sparse<br>Distributed Memory</em><br>
+        <img src="https://img.youtube.com/vi/THIIk7LR9_8/mqdefault.jpg" width="320" height="180">
+        </a>
+    </td>
+    <td align="center"> <!-- Third Video -->
+        <a href="https://www.youtube.com/watch?v=xhobcj2K9v4">
+        <em>The Brain, Determinism, and <br> Cultural Implications</em><br>
+        <img src="https://img.youtube.com/vi/xhobcj2K9v4/mqdefault.jpg" width="320" height="180">
+        </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Second Video -->
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <em>The Brain, Determinism, and <br> Cultural Implications</em><br>
-    <a href="https://www.youtube.com/watch?v=xhobcj2K9v4">
-      <img src="https://img.youtube.com/vi/xhobcj2K9v4/mqdefault.jpg" width="320" height="180">
-    </a>
-  </div>
-
-  <!-- Third Video -->
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <em>Attention Approximates Sparse<br>Distributed Memory</em><br>
-    <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">
-      <img src="https://img.youtube.com/vi/THIIk7LR9_8/mqdefault.jpg" width="320" height="180">
-    </a>
-  </div>
-</div>
 
 <h4 align="Center">
     <strong><em>Here is some misc that's been on my mind</em></strong>
@@ -148,19 +146,19 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center"> <!-- First Video -->
       <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
         <em>Nate Hagens:<br> The Superorganism & the Future</em><br>
         <img src="https://img.youtube.com/vi/-xr9rIQxwj4/mqdefault.jpg" width="320" height="180">
       </a>
     </td>
-    <td align="center">
+    <td align="center"> <!-- Second Video -->
       <a href="https://www.youtube.com/watch?v=4kBoLVvoqVY">
         <em>Daniel Schmachtenberger:<br> Introduction to the Metacrisis</em><br>
         <img src="https://media.licdn.com/dms/image/D4E12AQEEIX__e9GXpA/article-cover_image-shrink_600_2000/0/1693811587272?e=2147483647&v=beta&t=NT2j8RgXo14ta5d_vN8r31UfmuVYwP8hBMqlabGoV1U" width="320" height="180">
       </a>
     </td>
-    <td align="center">
+    <td align="center"> <!-- Third Video -->
       <a href="https://www.youtube.com/watch?v=n7jjlKoLuCY">
         <em>Kate Raworth:<br> The Most Sustainable Economy in the World</em><br>
         <img src="https://www.sharesource.com.au/hubfs/Copy%20of%20Blog%20Template%202%20%286%29.png" width="320" height="180">
