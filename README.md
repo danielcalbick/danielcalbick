@@ -39,6 +39,33 @@ I'm on a quest to unravel the mysteries of the mind. My research sits at the int
     <h3 align="left">Work in Progress</h3>
 </center>
 
+<table align="center">
+  <tr>
+    <td align="center"> <!-- First Video -->
+      - <a href="https://github.com/danielcalbick/danielcalbick/blob/34a4473d15d2603632628618c16cc38ffbe62984/assets/CCN_Pong_Poster.pdf">
+        <em>A New Multi-level Modeling Framework Provides Evidence for the Simulation of Object Dynamics in the Dorsomedial Frontal Cortex.</em>
+      </a>
+    </td>
+    <td align="center"> <!-- Second Video -->
+      <p href="https://www.youtube.com/watch?v=n7jjlKoLuCY" align="center">
+        <img src="https://github.com/danielcalbick/danielcalbick/blob/a9a7d50d43bbc1406ac6a2b146b3b2dcca4dad14/photos/world-models-pong.png" width="auto" height="100">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"> <!-- First Video -->
+      - <a href="https://github.com/danielcalbick/danielcalbick/blob/34a4473d15d2603632628618c16cc38ffbe62984/assets/CCN_inFunc_Poster.pdf">
+        <em>Exploring a Basis Set of Intrinsic Functions Underlying Neural Computation by Symbolically Programming Recurrent Neural Networks</em>
+      </a>
+    </td>
+    <td align="center"> <!-- Second Video -->
+      <p href="https://www.youtube.com/watch?v=n7jjlKoLuCY" align="center">
+        <img src="https://github.com/danielcalbick/danielcalbick/blob/a9a7d50d43bbc1406ac6a2b146b3b2dcca4dad14/photos/intrinsic-functions.png" width="auto" height="100">
+      </p>
+    </td>
+  </tr>
+</table>
+
 - <a href="https://github.com/danielcalbick/danielcalbick/blob/34a4473d15d2603632628618c16cc38ffbe62984/assets/CCN_Pong_Poster.pdf">
     <em>A New Multi-level Modeling Framework Provides Evidence for the Simulation of Object Dynamics in the Dorsomedial Frontal Cortex.</em>
   </a>
