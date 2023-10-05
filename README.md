@@ -102,9 +102,9 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 ---
 
-<h4 align="center">
-    <strong><em>Here is some misc that I really enjoy</em></strong>
-</h4>
+<h3 align="center">
+    <strong>Here is some misc that I really enjoyed</strong>
+</h3>
 
 <h5 align="left">
     <strong><em>Neuroscience, Complex Systems, Emergence,...</em></strong>
@@ -134,17 +134,16 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 </table>
 
 
-<h4 align="Center" >
-    <strong><em>Here is some misc that's been on my mind</em></strong>
-</h4>
+<h3 align="Center" >
+    <strong>Here is some misc that's been on my mind</strong>
+</h3>
 
 <h5 align="left">
     <strong><em>Existential dread...</em></strong>
 </h5>
 
 
-
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td align="center"> <!-- First Video -->
       <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
