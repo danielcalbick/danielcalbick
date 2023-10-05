@@ -184,7 +184,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://linkedin.com/in/daniel-calbick)
-- [Google Scholar](https://scholar.google.com/citations?user=yourID)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=mZBvPQsAAAAJ&view_op=list_works&gmla=AP6z3Ob_copCGU2HJQ1iaTPRkgDEy3GKGMO5CnPOyVARPywVfqPaPFQc5VErz4p0MVJMepSTStquQmWTq-jtT6VncFPKKvpKhSD5vqFKi2Vj15_fVfrUWDHtZoIXZWAp8zmR3Bk)
 
 ---
 
