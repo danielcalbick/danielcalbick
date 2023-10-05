@@ -11,7 +11,9 @@
 
 <!-- CNCL logo insert -->
 <p align="center">
+  <a href="http://cncl.yale.edu">
     <img src="https://raw.githubusercontent.com/danielcalbick/danielcalbick/profile-assets/images/CNCL_logo.svg" alt="CNCL Logo" width="460">
+  </a>
 </p>
 
 <!-- About me -->
