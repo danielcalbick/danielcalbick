@@ -108,7 +108,9 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 <!-- ------------- -->
 <!-- Misc Ending   -->
 <!-- ------------- -->
+
 ---
+
 <!-- Header -->
 <h1 align="center">
     <strong>Congrats you made it to the bottom (thanks for reading me 😜)</strong>
