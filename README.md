@@ -204,20 +204,20 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 
 <table align="center">
-  <tr>
-    <td align="center"> <!-- First Video -->
+  <tr border="none" width="900" height="200"> <!-- First Row -->
+    <td align="center" width="300"> <!-- First Video -->
       <a href="https://www.youtube.com/watch?v=mN87PWfj7LA&ab_channel=NorrskenFoundation">
         <em>Nate Hagens: The Superorganism & the Future</em><br>
         <img src="https://img.youtube.com/vi/-xr9rIQxwj4/mqdefault.jpg" width="320" height="180">
       </a>
     </td>
-    <td align="center"> <!-- Second Video -->
+    <td align="center" width="300"> <!-- Second Video -->
       <a href="https://www.youtube.com/watch?v=4kBoLVvoqVY&t=4m35s">
         <em>Daniel Schmachtenberger: Introduction to the Metacrisis</em><br>
         <img src="https://media.licdn.com/dms/image/D4E12AQEEIX__e9GXpA/article-cover_image-shrink_600_2000/0/1693811587272?e=2147483647&v=beta&t=NT2j8RgXo14ta5d_vN8r31UfmuVYwP8hBMqlabGoV1U" width="320" height="180">
       </a>
     </td>
-    <td align="center"> <!-- Third Video -->
+    <td align="center" width="300"> <!-- Third Video -->
       <a href="https://www.youtube.com/watch?v=n7jjlKoLuCY">
         <em>Kate Raworth: The Most Sustainable Economy in the World</em><br>
         <img src="https://www.sharesource.com.au/hubfs/Copy%20of%20Blog%20Template%202%20%286%29.png" width="320" height="180">
