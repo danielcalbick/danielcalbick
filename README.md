@@ -163,7 +163,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 </h5>
 
 <table align="center">
-  <tr border="none">
+  <tr border="none"> <!-- First Row -->
     <td align="center"> <!-- First Video -->
         <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
         <em>Evolving Brains: Solid, Liquid and Synthetic</em><br>
@@ -180,6 +180,14 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
         <a href="https://www.youtube.com/watch?v=xhobcj2K9v4">
         <em>The Brain, Determinism, & Cultural Implications</em><br>
         <img src="https://img.youtube.com/vi/xhobcj2K9v4/mqdefault.jpg" width="320" height="180">
+        </a>
+    </td>
+  </tr>
+  <tr border="none"> <!-- Second Row -->
+    <td align="center"> <!-- First Video -->
+        <a href="https://www.youtube.com/watch?v=GXJd2EE65YA">
+        <em>Bioelectric Networks as the Interface to Somatic Intelligence for Regenerative Medicine</em><br>
+        <img src="https://img.youtube.com/vi/GXJd2EE65YA/mqdefault.jpg" width="320" height="180">
         </a>
     </td>
   </tr>
