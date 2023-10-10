@@ -3,6 +3,7 @@
 
 import os
 import base64
+from datetime import datetime
 
 def update_readme(readme_path, logos_dir):
     # Save original README content
@@ -31,6 +32,9 @@ def update_readme(readme_path, logos_dir):
                 with open(f"{logos_dir}/{placeholder}.svg", "rb") as svg_file:
                     b64_svg = base64.b64encode(svg_file.read()).decode('utf-8')
                     readme_content = readme_content.replace(f"{pattern}{placeholder}.svg", f"{pattern}{b64_svg}")
+
+            current_date = datetime.now().strftime('%Y-%m-%d')
+            readme_content = readme_content.replace('<div><strong><em>Last Updated: year-month-day', f'<div><strong><em>Last Updated: {current_date}')
 
             # Rewrite the readme with base64 SVGs
             f.seek(0)
