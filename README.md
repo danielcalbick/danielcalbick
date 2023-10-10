@@ -250,7 +250,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div><strong><em>Author: Daniel Calbick</em></strong></div>
-    <div><strong><em>Last Updated: 2023-09-19</em></strong></div>
+    <div><strong><em>Last Updated: 2023-10-10</em></strong></div>
 </div>
 
 
