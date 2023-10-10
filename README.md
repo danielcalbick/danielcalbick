@@ -163,20 +163,20 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 </h5>
 
 <table align="center">
-  <tr border="none" width="900" height="500"> <!-- First Row -->
-    <td align="center" width="300" height="200">> <!-- First Video -->
+  <tr border="none" width="900" height="200"> <!-- First Row -->
+    <td align="center" width="300">> <!-- First Video -->
         <a href="https://www.youtube.com/watch?v=EIb5-LJbcIM&t=1418s&ab_channel=SantaFeInstitute">
         <em>Evolving Brains: Solid, Liquid and Synthetic</em><br>
         <img src="https://img.youtube.com/vi/EIb5-LJbcIM/0.jpg" width="320" height="180">
         </a>
     </td>
-    <td align="center" width="300" height="200"> <!-- Second Video -->
+    <td align="center" width="300"> <!-- Second Video -->
         <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">
         <em>Attention Approximates Sparse Distributed Memory</em><br>
         <img src="https://img.youtube.com/vi/THIIk7LR9_8/mqdefault.jpg" width="320" height="180">
         </a>
     </td>
-    <td align="center" width="300" height="200"> <!-- Third Video -->
+    <td align="center" width="300"> <!-- Third Video -->
         <a href="https://www.youtube.com/watch?v=xhobcj2K9v4">
         <em>The Brain, Determinism, & Cultural Implications</em><br>
         <img src="https://img.youtube.com/vi/xhobcj2K9v4/mqdefault.jpg" width="320" height="180">
