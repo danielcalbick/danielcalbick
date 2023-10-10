@@ -184,11 +184,15 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
     </td>
   </tr>
   <tr border="none"> <!-- Second Row -->
-    <td align="center"> <!-- First Video -->
+  <td align="center"> <!-- First Video -->
+    </td>
+    <td align="center"> <!-- Second Video -->
         <a href="https://www.youtube.com/watch?v=GXJd2EE65YA">
         <em>Bioelectric Networks as the Interface to Somatic Intelligence for Regenerative Medicine</em><br>
         <img src="https://img.youtube.com/vi/GXJd2EE65YA/mqdefault.jpg" width="320" height="180">
         </a>
+    </td>
+    <td align="center"> <!-- Third Video -->
     </td>
   </tr>
 </table>
