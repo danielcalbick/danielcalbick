@@ -235,10 +235,15 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 </h3>
 
 - [3blue1brown](https://www.youtube.com/@3blue1brown)
+>> Created by Grant Sanderson, 3blue1brown is known for its visually stunning animations that help explain high-level mathematics in an intuitive manner. Topics range from calculus and linear algebra to machine learning and neural networks.
 - [statquest](https://www.youtube.com/@statquest)
+>> Simplifies complex statistics and machine learning topics into fun and easy-to-understand videos. The channel is famous for its "Bam!" moments that clarify confusing concepts.
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+>> Focuses on explaining recent research papers in machine learning, artificial intelligence, and deep learning. His detailed walkthroughs make cutting-edge research accessible to a broader audience.
 - [Steven Brunton](https://www.youtube.com/@Eigensteve)
+>> Covers a wide range of topics in applied mathematics, including but not limited to control theory, data science, and dynamical systems. His teaching style is clear and methodical, making complex topics easier to grasp.
 - [Gilbert Strang's Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+>> This is a complete course playlist featuring MIT Professor Gilbert Strang. It's a comprehensive resource for anyone looking to understand linear algebra at a deep level. Strang's engaging lectures make even the most challenging concepts relatable.
 
 --- 
 
