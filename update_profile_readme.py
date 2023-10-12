@@ -34,7 +34,7 @@ def update_readme(readme_path, logos_dir):
                     readme_content = readme_content.replace(f"{pattern}{placeholder}.svg", f"{pattern}{b64_svg}")
 
             current_date = datetime.now().strftime('%Y-%m-%d')
-            readme_content = readme_content.replace('<div><strong><em>Last Updated:</em> year-month-day', f'<div><strong><em>Last Updated:</em> {current_date}')
+            readme_content = readme_content.replace('<strong><em>Last Updated:</em> year-month-day', f'<strong><em>Last Updated:</em> {current_date}')
 
             # Rewrite the readme with base64 SVGs
             f.seek(0)
