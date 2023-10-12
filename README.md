@@ -230,6 +230,15 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
   </tr>
 </table>
 
+<h3 align="center">
+    <strong>Math is fun... here's who made me think so...</strong>
+</h3>
+
+- [3blue1brown](https://www.youtube.com/@3blue1brown)
+- [statquest](https://www.youtube.com/@statquest)
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+- [Steven Brunton](https://www.youtube.com/@Eigensteve)
+- [Gilbert Strang's Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 
 --- 
 
@@ -254,7 +263,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div><strong><em>Author: Daniel Calbick</em></strong></div>
-    <div><strong><em>Last Updated: 2023-10-10</em></strong></div>
+    <div><strong><em>Last Updated: 2023-10-12</em></strong></div>
 </div>
 
 
