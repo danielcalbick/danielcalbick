@@ -243,7 +243,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 - [Steven Brunton](https://www.youtube.com/@Eigensteve)
 >> Covers a wide range of topics in applied mathematics, including but not limited to control theory, data science, and dynamical systems. His teaching style is clear and methodical, making complex topics easier to grasp.
 - [Gilbert Strang's Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
->> This is a complete course playlist featuring MIT Professor Gilbert Strang. It's a comprehensive resource for anyone looking to understand linear algebra at a deep level. Strang's engaging lectures make even the most challenging concepts relatable.
+>> This is a complete course playlist featuring MIT Professor Gilbert Strang (who quite literally wrote the book on Linear Algebra). It's a comprehensive resource for anyone looking to understand linear algebra at a deep level. Strang's engaging lectures make even the most challenging concepts relatable.
 
 --- 
 
