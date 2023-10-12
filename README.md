@@ -267,7 +267,7 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 ---
 
-<strong><em>Author:</em> Daniel Calbick</strong>
+<strong><em>Author:</em> Daniel Calbick</strong><br>
 <strong><em>Last Updated:</em> year-month-day</strong>
 
 
