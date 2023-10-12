@@ -245,12 +245,20 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 - [Gilbert Strang's Linear Algebra](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 >> This is a complete course playlist featuring MIT Professor Gilbert Strang (who quite literally wrote the book on Linear Algebra). It's a comprehensive resource for anyone looking to understand linear algebra at a deep level. Strang's engaging lectures make even the most challenging concepts relatable.
 
+---
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://linkedin.com/in/daniel-calbick)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=mZBvPQsAAAAJ&view_op=list_works&gmla=AP6z3Ob_copCGU2HJQ1iaTPRkgDEy3GKGMO5CnPOyVARPywVfqPaPFQc5VErz4p0MVJMepSTStquQmWTq-jtT6VncFPKKvpKhSD5vqFKi2Vj15_fVfrUWDHtZoIXZWAp8zmR3Bk)
+
 --- 
 
-## 📈 GitHub Stats
+<div align= center>
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcalbick)
 
+</div>
 <!-- ## 📦 Featured Projects
 
 - [Dynamic Network Analysis](https://github.com/yourusername/dynamic-network-analysis)
@@ -259,17 +267,9 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 
 ---
 
-## 📫 How to Reach Me
+<div><strong><em>Author: Daniel Calbick</em></strong></div>
+<div><strong><em>Last Updated: 2023-10-12</em></strong></div>
 
-- [LinkedIn](https://linkedin.com/in/daniel-calbick)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=mZBvPQsAAAAJ&view_op=list_works&gmla=AP6z3Ob_copCGU2HJQ1iaTPRkgDEy3GKGMO5CnPOyVARPywVfqPaPFQc5VErz4p0MVJMepSTStquQmWTq-jtT6VncFPKKvpKhSD5vqFKi2Vj15_fVfrUWDHtZoIXZWAp8zmR3Bk)
-
----
-
-<div style="display: flex; justify-content: space-between; width: 100%;">
-    <div><strong><em>Author: Daniel Calbick</em></strong></div>
-    <div><strong><em>Last Updated: 2023-10-12</em></strong></div>
-</div>
 
 
 
