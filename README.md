@@ -259,18 +259,17 @@ Today, I'm particularly interested in attentional, memory, inference, and genera
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcalbick)
 
 </div>
-<!-- ## 📦 Featured Projects
 
+<!-- ## 📦 Featured Projects
 - [Dynamic Network Analysis](https://github.com/yourusername/dynamic-network-analysis)
 - [Hypothesis-Driven Algorithms in RNNs](https://github.com/yourusername/hypothesis-driven-RNNs)
 - [Neural Data Analysis](https://github.com/yourusername/neural-data-analysis) -->
 
 ---
 
-<div>
-<div><strong><em>Author: Daniel Calbick</em></strong></div>
-<div><strong><em>Last Updated: 2023-10-12</em></strong></div>
-</div>
+<strong><em>Author:</em> Daniel Calbick</strong>
+<strong><em>Last Updated:</em> year-month-day</strong>
+
 
 
 
